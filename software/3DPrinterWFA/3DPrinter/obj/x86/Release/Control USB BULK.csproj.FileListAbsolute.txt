@@ -1,0 +1,55 @@
+c:\users\mariano\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\mariano\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Control_USB_BULK.Form1.resources
+c:\users\mariano\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Control_USB_BULK.Properties.Resources.resources
+c:\users\mariano\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\mariano\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\C# Control BULK USB\Control USB BULK\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\C# Control BULK USB\Control USB BULK\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\C# Control BULK USB\Control USB BULK\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\C# Control BULK USB\Control USB BULK\bin\Release\Interfaz Control USB BULK.exe.config
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\C# Control BULK USB\Control USB BULK\obj\x86\Release\ControlUSB.Properties.Resources.resources
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\C# Control BULK USB\Control USB BULK\obj\x86\Release\ControlUSB.ControlUSB.resources
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\C# Control BULK USB\Control USB BULK\bin\Release\Interfaz Control USB BULK.exe
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\C# Control BULK USB\Control USB BULK\bin\Release\Interfaz Control USB BULK.pdb
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\C# Control BULK USB\Control USB BULK\obj\x86\Release\Interfaz Control USB BULK.exe
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\C# Control BULK USB\Control USB BULK\obj\x86\Release\Interfaz Control USB BULK.pdb
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\Panel Labview\C# Control BULK USB\Control USB BULK\bin\Release\Interfaz Control USB BULK.exe.config
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\Panel Labview\C# Control BULK USB\Control USB BULK\obj\x86\Release\Interfaz Control USB BULK.exe
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\Panel Labview\C# Control BULK USB\Control USB BULK\obj\x86\Release\Interfaz Control USB BULK.pdb
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\Panel Labview\C# Control BULK USB\Control USB BULK\bin\Release\Interfaz Control USB BULK.exe
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\Panel Labview\C# Control BULK USB\Control USB BULK\bin\Release\Interfaz Control USB BULK.pdb
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\Panel Labview\C# Control BULK USB\Control USB BULK\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\Panel Labview\C# Control BULK USB\Control USB BULK\obj\x86\Release\ControlUSB.ControlUSB.resources
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\Panel Labview\C# Control BULK USB\Control USB BULK\obj\x86\Release\ControlUSB.Properties.Resources.resources
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\Panel Labview\C# Control BULK USB\Control USB BULK\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\Panel Labview\C# Control BULK USB\Control USB BULK\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Paulo\Documents\PAULO\ETN1040\3D printer\DIY_PIC+USBbulk+labview2010+Csharp\mnicolau\USB-BULK MN-LabVIEW 2010\bulk\Software Interfaz\C# Control BULK USB\Control USB BULK\bin\Release\Interfaz Control USB BULK.exe.config
+C:\Users\Paulo\Documents\PAULO\ETN1040\3D printer\DIY_PIC+USBbulk+labview2010+Csharp\mnicolau\USB-BULK MN-LabVIEW 2010\bulk\Software Interfaz\C# Control BULK USB\Control USB BULK\obj\x86\Release\Interfaz Control USB BULK.exe
+C:\Users\Paulo\Documents\PAULO\ETN1040\3D printer\DIY_PIC+USBbulk+labview2010+Csharp\mnicolau\USB-BULK MN-LabVIEW 2010\bulk\Software Interfaz\C# Control BULK USB\Control USB BULK\obj\x86\Release\Interfaz Control USB BULK.pdb
+C:\Users\Paulo\Documents\PAULO\ETN1040\3D printer\DIY_PIC+USBbulk+labview2010+Csharp\mnicolau\USB-BULK MN-LabVIEW 2010\bulk\Software Interfaz\C# Control BULK USB\Control USB BULK\bin\Release\Interfaz Control USB BULK.exe
+C:\Users\Paulo\Documents\PAULO\ETN1040\3D printer\DIY_PIC+USBbulk+labview2010+Csharp\mnicolau\USB-BULK MN-LabVIEW 2010\bulk\Software Interfaz\C# Control BULK USB\Control USB BULK\bin\Release\Interfaz Control USB BULK.pdb
+C:\Users\Paulo\Documents\PAULO\ETN1040\3D printer\DIY_PIC+USBbulk+labview2010+Csharp\mnicolau\USB-BULK MN-LabVIEW 2010\bulk\Software Interfaz\C# Control BULK USB\Control USB BULK\obj\x86\Release\Control USB BULK.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Documents\PAULO\ETN1040\3D printer\DIY_PIC+USBbulk+labview2010+Csharp\mnicolau\USB-BULK MN-LabVIEW 2010\bulk\Software Interfaz\C# Control BULK USB\Control USB BULK\obj\x86\Release\ControlUSB.ControlUSB.resources
+C:\Users\Paulo\Documents\PAULO\ETN1040\3D printer\DIY_PIC+USBbulk+labview2010+Csharp\mnicolau\USB-BULK MN-LabVIEW 2010\bulk\Software Interfaz\C# Control BULK USB\Control USB BULK\obj\x86\Release\ControlUSB.Properties.Resources.resources
+C:\Users\Paulo\Documents\PAULO\ETN1040\3D printer\DIY_PIC+USBbulk+labview2010+Csharp\mnicolau\USB-BULK MN-LabVIEW 2010\bulk\Software Interfaz\C# Control BULK USB\Control USB BULK\obj\x86\Release\Control USB BULK.csproj.GenerateResource.Cache
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\DIY_PIC+USBbulk+labview2010+Csharp\mnicolau\USB-BULK MN-LabVIEW 2010\bulk\Software Interfaz\C# Control BULK USB\Control USB BULK\bin\Release\Interfaz Control USB BULK.exe.config
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\DIY_PIC+USBbulk+labview2010+Csharp\mnicolau\USB-BULK MN-LabVIEW 2010\bulk\Software Interfaz\C# Control BULK USB\Control USB BULK\obj\x86\Release\Interfaz Control USB BULK.exe
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\DIY_PIC+USBbulk+labview2010+Csharp\mnicolau\USB-BULK MN-LabVIEW 2010\bulk\Software Interfaz\C# Control BULK USB\Control USB BULK\obj\x86\Release\Interfaz Control USB BULK.pdb
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB\Control USB BULK\bin\Release\3D Printer Repet.exe.config
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB\Control USB BULK\bin\Release\3D Printer Repet.exe
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB\Control USB BULK\bin\Release\3D Printer Repet.pdb
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB\Control USB BULK\obj\x86\Release\ControlUSB.ControlUSB.resources
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB\Control USB BULK\obj\x86\Release\ControlUSB.Properties.Resources.resources
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB\Control USB BULK\obj\x86\Release\Control USB BULK.csproj.GenerateResource.Cache
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB\Control USB BULK\obj\x86\Release\3D Printer Repet.exe
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB\Control USB BULK\obj\x86\Release\3D Printer Repet.pdb
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB\Control USB BULK\obj\x86\Release\Control USB BULK.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB 3D Printer\Control USB BULK\bin\Release\3D Printer Repet.exe.config
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB 3D Printer\Control USB BULK\obj\x86\Release\3D Printer Repet.exe
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB 3D Printer\Control USB BULK\obj\x86\Release\3D Printer Repet.pdb
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB 3D Printer\Control USB BULK\bin\Release\3D Printer Repet.exe
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB 3D Printer\Control USB BULK\bin\Release\3D Printer Repet.pdb
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB 3D Printer\Control USB BULK\obj\x86\Release\ControlUSB.Properties.Resources.resources
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB 3D Printer\Control USB BULK\obj\x86\Release\Control USB BULK.csproj.GenerateResource.Cache
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB 3D Printer\Control USB BULK\obj\x86\Release\Control USB BULK.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB 3D Printer\Control USB BULK\obj\x86\Release\ControlUSB.InterfazMain3DPrinter.resources

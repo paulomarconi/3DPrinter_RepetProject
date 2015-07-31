@@ -1,0 +1,8 @@
+>>> Warning 203 "C:\Program Files\PICC\drivers\pic18_usb.c" Line 616(1,1): Condition always TRUE
+>>> Warning 216 "Main3DPrinter.c" Line 335(0,1): Interrupts disabled during call to prevent re-entrancy:  (usb_token_reset)
+>>> Warning 216 "Main3DPrinter.c" Line 335(0,1): Interrupts disabled during call to prevent re-entrancy:  (usb_flush_out)
+>>> Warning 216 "Main3DPrinter.c" Line 335(0,1): Interrupts disabled during call to prevent re-entrancy:  (usb_tbe)
+>>> Warning 216 "Main3DPrinter.c" Line 335(0,1): Interrupts disabled during call to prevent re-entrancy:  (usb_flush_in)
+      Memory usage:   ROM=25%      RAM=18% - 20%
+      0 Errors,  5 Warnings.
+Build Successful.

@@ -1,0 +1,662 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" GraphDirection="TopToBottom" Layout="ForceDirected" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 @3 @9 Member=Status_Dispositivo)" Category="CodeSchema_Method" Bounds="-125.79504531056,680.511783842236,124.316666666667,23.2766666666666" CodeSchemaProperty_IsPrivate="True" CommonLabel="Status_Dispositivo" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="Status_Dispositivo" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=51 StartCharacterOffset=8 EndLineNumber=51 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@10" Category="CodeSchema_Class" Bounds="-518.412617380512,183.412382013745,341.109313468099,461.402516895323" CodeSchemaProperty_IsPublic="True" CommonLabel="InterfazMain3DPrinter" DelayedChildNodesState="Incomplete" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Icon="CodeSchema_Class" Label="InterfazMain3DPrinter" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/InterfazMain3DPrinter.Designer.cs StartLineNumber=2 StartCharacterOffset=4 EndLineNumber=2 EndCharacterOffset=4)" UseManualLocation="True" />
+    <Node Id="@100" Category="CodeSchema_Field" Bounds="89.8645036574025,400.011625549929,79.2533333333333,23.2766666666666" CodeSchemaProperty_IsPrivate="True" DelayedCrossGroupLinksState="Fetched" Label="out_pipe" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/PICUSBapi.cs StartLineNumber=14 StartCharacterOffset=15 EndLineNumber=14 EndCharacterOffset=15)" />
+    <Node Id="@101" Category="CodeSchema_Field" Bounds="-381.069032459651,-186.487695649827,73.3602529866666,23.2767907466667" CodeSchemaProperty_IsPublic="True" DelayedCrossGroupLinksState="Fetched" Label="Periodo" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/impresion3d.cs StartLineNumber=25 StartCharacterOffset=24 EndLineNumber=25 EndCharacterOffset=24)" />
+    <Node Id="@102" Category="CodeSchema_Field" Bounds="-396.049895935159,-239.760522798264,98.8284191466668,23.2767907466666" CodeSchemaProperty_IsPublic="True" DelayedCrossGroupLinksState="Fetched" Label="PosicionFinal" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/impresion3d.cs StartLineNumber=23 StartCharacterOffset=24 EndLineNumber=23 EndCharacterOffset=24)" />
+    <Node Id="@103" Category="CodeSchema_Field" Bounds="-298.344312334534,-133.214886398372,104.79936254112,23.2781693140693" CodeSchemaProperty_IsPublic="True" DelayedCrossGroupLinksState="Fetched" Label="PosicionInicial" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/impresion3d.cs StartLineNumber=22 StartCharacterOffset=24 EndLineNumber=22 EndCharacterOffset=24)" />
+    <Node Id="@105" Category="CodeSchema_Field" Bounds="-308.981372485178,343.980220596874,111.677228346666,23.2783348533333" CodeSchemaProperty_IsPrivate="True" DelayedCrossGroupLinksState="Fetched" Label="Recibir_Byte[3]" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=25 StartCharacterOffset=24 EndLineNumber=25 EndCharacterOffset=24)" />
+    <Node Id="@106" Category="CodeSchema_Method" Bounds="-271.638061485953,366.659765980688,57.7198441721773,23.2821234711741" CodeSchemaProperty_IsPrivate="True" CommonLabel="Step" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="Step" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=315 StartCharacterOffset=8 EndLineNumber=315 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@107" Category="CodeSchema_Field" Bounds="-227.762930085772,437.991840433907,132.886666666667,23.2766666666666" CodeSchemaProperty_IsPrivate="True" DelayedCrossGroupLinksState="Fetched" Label="textBoxNumPulsosE" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/InterfazMain3DPrinter.Designer.cs StartLineNumber=1886 StartCharacterOffset=45 EndLineNumber=1886 EndCharacterOffset=45)" />
+    <Node Id="@108" Category="CodeSchema_Field" Bounds="-227.762933646156,463.268512797188,133.103333333333,23.2766666666666" CodeSchemaProperty_IsPrivate="True" DelayedCrossGroupLinksState="Fetched" Label="textBoxNumPulsosX" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/InterfazMain3DPrinter.Designer.cs StartLineNumber=1890 StartCharacterOffset=45 EndLineNumber=1890 EndCharacterOffset=45)" />
+    <Node Id="@109" Category="CodeSchema_Field" Bounds="-227.762935172456,488.545185160469,133.053333333333,23.2766666666666" CodeSchemaProperty_IsPrivate="True" DelayedCrossGroupLinksState="Fetched" Label="textBoxNumPulsosY" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/InterfazMain3DPrinter.Designer.cs StartLineNumber=1889 StartCharacterOffset=45 EndLineNumber=1889 EndCharacterOffset=45)" />
+    <Node Id="@110" Category="CodeSchema_Field" Bounds="-227.762932222424,513.821796488595,132.866666666667,23.2766666666666" CodeSchemaProperty_IsPrivate="True" DelayedCrossGroupLinksState="Fetched" Label="textBoxNumPulsosZ" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/InterfazMain3DPrinter.Designer.cs StartLineNumber=1887 StartCharacterOffset=45 EndLineNumber=1887 EndCharacterOffset=45)" />
+    <Node Id="@111" Category="CodeSchema_Field" Bounds="-233.276819347653,574.894794535469,146.53,23.2766666666666" CodeSchemaProperty_IsPrivate="True" DelayedCrossGroupLinksState="Fetched" Label="textBoxPeriodoPulsosE" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/InterfazMain3DPrinter.Designer.cs StartLineNumber=1878 StartCharacterOffset=45 EndLineNumber=1878 EndCharacterOffset=45)" />
+    <Node Id="@112" Category="CodeSchema_Field" Bounds="-233.276800020275,600.171466898751,146.746666666667,23.2766666666666" CodeSchemaProperty_IsPublic="True" DelayedCrossGroupLinksState="Fetched" Label="textBoxPeriodoPulsosX" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/InterfazMain3DPrinter.Designer.cs StartLineNumber=1892 StartCharacterOffset=44 EndLineNumber=1892 EndCharacterOffset=44)" />
+    <Node Id="@113" Category="CodeSchema_Field" Bounds="-233.276801546154,625.448139262032,146.696666666667,23.2766666666666" CodeSchemaProperty_IsPrivate="True" DelayedCrossGroupLinksState="Fetched" Label="textBoxPeriodoPulsosY" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/InterfazMain3DPrinter.Designer.cs StartLineNumber=1882 StartCharacterOffset=45 EndLineNumber=1882 EndCharacterOffset=45)" />
+    <Node Id="@114" Category="CodeSchema_Field" Bounds="-233.276821484305,650.724811625313,146.51,23.2766666666666" CodeSchemaProperty_IsPrivate="True" DelayedCrossGroupLinksState="Fetched" Label="textBoxPeriodoPulsosZ" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/InterfazMain3DPrinter.Designer.cs StartLineNumber=1879 StartCharacterOffset=45 EndLineNumber=1879 EndCharacterOffset=45)" />
+    <Node Id="@115" Category="CodeSchema_Field" Bounds="-29.8518782462712,96.6786070792389,167.432137013333,23.2777833866666" CodeSchemaProperty_IsPrivate="True" DelayedCrossGroupLinksState="Fetched" Label="textBoxTiempoDeMuestreo" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/InterfazMain3DPrinter.Designer.cs StartLineNumber=1853 StartCharacterOffset=45 EndLineNumber=1853 EndCharacterOffset=45)" UseManualLocation="True" />
+    <Node Id="@116" Category="CodeSchema_Field" Bounds="-365.423138246815,278.404185276892,71.2863645866667,23.2783348533333" CodeSchemaProperty_IsPrivate="True" DelayedCrossGroupLinksState="Fetched" Label="USBapi" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=23 StartCharacterOffset=18 EndLineNumber=23 EndCharacterOffset=18)" />
+    <Node Id="@117" Category="CodeSchema_Field" Bounds="145.666514898289,453.288290854092,103.188617492184,23.301552611075" CodeSchemaProperty_IsPrivate="True" DelayedCrossGroupLinksState="Fetched" Label="vid_pid_norm" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/PICUSBapi.cs StartLineNumber=12 StartCharacterOffset=15 EndLineNumber=12 EndCharacterOffset=15)" />
+    <Node Id="@118" Category="CodeSchema_Field" Bounds="-352.080052163918,465.500255778026,50.0522130178024,23.2783482296268" CodeSchemaProperty_IsPublic="True" DelayedCrossGroupLinksState="Fetched" Label="X" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/vector5d.cs StartLineNumber=11 StartCharacterOffset=23 EndLineNumber=11 EndCharacterOffset=23)" UseManualLocation="True" />
+    <Node Id="@119" Category="CodeSchema_Field" Bounds="-408.014164712746,518.778682902049,50.0522130178019,23.2783482296268" CodeSchemaProperty_IsPublic="True" DelayedCrossGroupLinksState="Fetched" Label="Y" UseManualLocation="True" />
+    <Node Id="@12" Category="CodeSchema_Class" Bounds="-67.1016833141859,359.998784301034,401.938991851807,296.424054011361" CodeSchemaProperty_IsPublic="True" CommonLabel="PICUSBapi" DelayedChildNodesState="Incomplete" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Icon="CodeSchema_Class" Label="PICUSBapi" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/PICUSBapi.cs StartLineNumber=9 StartCharacterOffset=4 EndLineNumber=9 EndCharacterOffset=4)" UseManualLocation="True" />
+    <Node Id="@120" Category="CodeSchema_Field" Bounds="-352.112553384621,572.05715580244,50.0522130178022,23.2783482296268" CodeSchemaProperty_IsPublic="True" DelayedCrossGroupLinksState="Fetched" Label="Z" UseManualLocation="True" />
+    <Node Id="@15" Category="CodeSchema_Struct" Bounds="-397.777704977713,708.82275882065,103.51,25" CodeSchemaProperty_IsFinal="True" CodeSchemaProperty_IsPublic="True" CommonLabel="Vector5D" DelayedChildNodesState="Incomplete" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Icon="CodeSchema_Struct" Label="Vector5D" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/vector5d.cs StartLineNumber=8 StartCharacterOffset=4 EndLineNumber=8 EndCharacterOffset=4)" UseManualLocation="True" />
+    <Node Id="@2" Category="CodeSchema_Assembly" AssemblyTimestamp="09/01/2014 19:44:07" Bounds="-920.14209619309,-359.794656367173,1294.97672118418,1133.62661192468" CodeSchemaProperty_StrongName="3D Printer Repet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="Incomplete" DelayedCrossGroupLinksState="Fetched" FilePath="$(42f9c504-5dfb-427e-8126-ec9b5ca07184.OutputPath)" Group="Expanded" Label="3D Printer Repet.exe" LayoutSettings="ForceDirected" UseManualLocation="True">
+      <Category Ref="FileSystem.Category.FileOfType.exe" />
+    </Node>
+    <Node Id="@4" Category="CodeSchema_Namespace" Bounds="-900.14209619309,-319.794556367173,1254.97672118418,1073.62641192468" DelayedChildNodesState="Incomplete" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Label="ControlUSB" UseManualLocation="True" />
+    <Node Id="@44" Category="CodeSchema_Method" Bounds="218.273784764987,613.129209778445,96.56,23.2766666666666" CodeSchemaProperty_IsPublic="True" CommonLabel="RecibirDatos" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="RecibirDatos" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/PICUSBapi.cs StartLineNumber=105 StartCharacterOffset=8 EndLineNumber=105 EndCharacterOffset=8)" />
+    <Node Id="@46" Category="CodeSchema_Method" Bounds="-801.902044715943,402.068310485674,68.1600000000001,23.2766666666666" CodeSchemaProperty_IsPublic="True" DelayedCrossGroupLinksState="Fetched" Label="Cargar" />
+    <Node Id="@47" Category="CodeSchema_Method" Bounds="-402.19651100676,-79.9406451737523,110.947546506667,23.2767907466666" CodeSchemaProperty_IsPrivate="True" CommonLabel="ControlledMove" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="ControlledMove" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/impresion3d.cs StartLineNumber=199 StartCharacterOffset=8 EndLineNumber=199 EndCharacterOffset=8)" />
+    <Node Id="@49" Category="CodeSchema_Method" Bounds="156.363026346192,559.853687870346,105.186005973333,23.2907842133334" CodeSchemaProperty_IsPrivate="True" CommonLabel="ReceivePacket" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="ReceivePacket" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/PICUSBapi.cs StartLineNumber=64 StartCharacterOffset=8 EndLineNumber=64 EndCharacterOffset=8)" />
+    <Node Id="@51" Category="CodeSchema_Method" Bounds="-419.150531800974,473.854947413739,158.280613943396,23.2842806451777" CodeSchemaProperty_IsPrivate="True" CommonLabel="buttonCargarGcode_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="buttonCargarGcode_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=281 StartCharacterOffset=8 EndLineNumber=281 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@52" Category="CodeSchema_Method" Bounds="-419.164159701708,527.222275517752,156.120524885443,23.2776591637266" CodeSchemaProperty_IsPrivate="True" CommonLabel="buttonEnviarGcode_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="buttonEnviarGcode_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=382 StartCharacterOffset=8 EndLineNumber=382 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@53" Category="CodeSchema_Method" Bounds="-239.394597153334,96.6784348575775,179.542722265509,23.2781278299893" CodeSchemaProperty_IsPrivate="True" CommonLabel="buttonGuardarMuestreo_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="buttonGuardarMuestreo_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=208 StartCharacterOffset=8 EndLineNumber=208 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@54" Category="CodeSchema_Method" Bounds="-234.921726596662,150.678446301669,170.596980198491,23.2781278299894" CodeSchemaProperty_IsPrivate="True" CommonLabel="buttonIniciarMuestreo_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="buttonIniciarMuestreo_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=188 StartCharacterOffset=8 EndLineNumber=188 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@55" Category="CodeSchema_Method" Bounds="-237.657736270868,-65.3215536983307,176.0690033616,23.2781278299893" CodeSchemaProperty_IsPrivate="True" CommonLabel="buttonLimpiarMuestreo_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="buttonLimpiarMuestreo_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=202 StartCharacterOffset=8 EndLineNumber=202 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@56" Category="CodeSchema_Method" Bounds="-61.0297910599061,453.191304311156,144.781365786944,23.3454513151833" CodeSchemaProperty_IsPrivate="True" CommonLabel="buttonNegativoE_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="buttonNegativoE_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=163 StartCharacterOffset=8 EndLineNumber=163 EndCharacterOffset=8)" />
+    <Node Id="@57" Category="CodeSchema_Method" Bounds="-61.0297931852285,478.536848112483,144.905958049018,23.2857113687794" CodeSchemaProperty_IsPrivate="True" CommonLabel="buttonNegativoX_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="buttonNegativoX_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=133 StartCharacterOffset=8 EndLineNumber=133 EndCharacterOffset=8)" />
+    <Node Id="@58" Category="CodeSchema_Method" Bounds="-61.0297779226588,503.822514638305,144.941381321531,23.345451315183" CodeSchemaProperty_IsPrivate="True" CommonLabel="buttonNegativoY_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="buttonNegativoY_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=143 StartCharacterOffset=8 EndLineNumber=143 EndCharacterOffset=8)" />
+    <Node Id="@59" Category="CodeSchema_Method" Bounds="-61.0297924008261,529.167956732392,144.662090514682,23.2802079961498" CodeSchemaProperty_IsPrivate="True" CommonLabel="buttonNegativoZ_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="buttonNegativoZ_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=153 StartCharacterOffset=8 EndLineNumber=153 EndCharacterOffset=8)" />
+    <Node Id="@6" Category="CodeSchema_Class" Bounds="-880.143042032401,361.703366436804,331.729484425792,136.922889694997" CodeSchemaProperty_IsPublic="True" CommonLabel="GcodeDocument" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="4" Group="Expanded" Icon="CodeSchema_Class" Label="GcodeDocument" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/GcodeDocument.cs StartLineNumber=10 StartCharacterOffset=4 EndLineNumber=10 EndCharacterOffset=4)" UseManualLocation="True" />
+    <Node Id="@60" Category="CodeSchema_Method" Bounds="-232.65364792461,42.6784386722748,166.060829530107,23.2781278299893" CodeSchemaProperty_IsPrivate="True" CommonLabel="buttonPararMuestreo_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="buttonPararMuestreo_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=194 StartCharacterOffset=8 EndLineNumber=194 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@61" Category="CodeSchema_Method" Bounds="-61.0297900023137,554.448291205048,139.166701501349,23.2802079961498" CodeSchemaProperty_IsPrivate="True" CommonLabel="buttonPositivoE_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="buttonPositivoE_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=158 StartCharacterOffset=8 EndLineNumber=158 EndCharacterOffset=8)" />
+    <Node Id="@62" Category="CodeSchema_Method" Bounds="-61.0297906160143,579.728468398912,151.295189362051,23.30988046389" CodeSchemaProperty_IsPrivate="True" CommonLabel="buttonPositivoX_Click_1" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="buttonPositivoX_Click_1" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=128 StartCharacterOffset=8 EndLineNumber=128 EndCharacterOffset=8)" />
+    <Node Id="@63" Category="CodeSchema_Method" Bounds="-61.0297918936847,605.038290082777,139.431964073153,23.3015652204881" CodeSchemaProperty_IsPrivate="True" CommonLabel="buttonPositivoY_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="buttonPositivoY_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=138 StartCharacterOffset=8 EndLineNumber=138 EndCharacterOffset=8)" />
+    <Node Id="@64" Category="CodeSchema_Method" Bounds="92.2653953581179,453.191272161744,139.146742461349,23.2802079961498" CodeSchemaProperty_IsPrivate="True" CommonLabel="buttonPositivoZ_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="buttonPositivoZ_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=148 StartCharacterOffset=8 EndLineNumber=148 EndCharacterOffset=8)" />
+    <Node Id="@65" Category="CodeSchema_Method" Bounds="-233.043634816265,527.222275517752,144.507217041633,23.2776591637264" CodeSchemaProperty_IsPrivate="True" CommonLabel="buttonResetStep_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="buttonResetStep_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=414 StartCharacterOffset=8 EndLineNumber=414 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@66" Category="CodeSchema_Method" Bounds="-419.150531800974,420.628861024083,117.574279352682,23.2793263896559" CodeSchemaProperty_IsPrivate="True" CommonLabel="buttonStep_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="buttonStep_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=356 StartCharacterOffset=8 EndLineNumber=356 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@67" Category="CodeSchema_Method" Bounds="-230.892284983585,473.939657298138,145.436681438771,23.2776591637266" CodeSchemaProperty_IsPrivate="True" CommonLabel="buttonTimerStep_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="buttonTimerStep_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=362 StartCharacterOffset=8 EndLineNumber=362 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@68" Category="CodeSchema_Method" Bounds="-216.673878203067,-11.3215613277252,134.101283411301,23.2781278299893" CodeSchemaProperty_IsPrivate="True" CommonLabel="TimerMuestreo_Tick" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="TimerMuestreo_Tick" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=251 StartCharacterOffset=8 EndLineNumber=251 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@69" Category="CodeSchema_Method" Bounds="-415.930509135582,366.681133024083,111.134234021897,23.2793263896559" CodeSchemaProperty_IsPrivate="True" CommonLabel="TimerStep_Tick" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="TimerStep_Tick" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=372 StartCharacterOffset=8 EndLineNumber=372 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@70" Category="CodeSchema_Method" Bounds="-458.458510014702,493.249132465547,125.906774133334,23.2783348533333" CodeSchemaProperty_IsPrivate="True" CommonLabel="trackBarGlaGlc_Scroll" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="Selección Gla - Glc" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=170 StartCharacterOffset=8 EndLineNumber=170 EndCharacterOffset=8)" />
+    <Node Id="@72" Category="CodeSchema_Method" Bounds="-125.795045283932,627.216233104213,89.3121637126939,23.2955503895645" CodeSchemaProperty_IsPrivate="True" CommonLabel="Cierre_App" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="Cierre_App" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=69 StartCharacterOffset=8 EndLineNumber=69 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@73" Category="CodeSchema_Method" Bounds="-477.054618432931,225.121198188041,134.676754688175,23.2829870888514" CodeSchemaProperty_IsPrivate="True" CommonLabel="hScrollBarPWM_Scroll" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="Referencia r(t) PWM" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=177 StartCharacterOffset=8 EndLineNumber=177 EndCharacterOffset=8)" />
+    <Node Id="@74" Category="CodeSchema_Method" Bounds="7.53156379737646,559.852476380008,91.9966666666667,23.2766666666666" CodeSchemaProperty_IsPrivate="True" CommonLabel="SendPacket" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="SendPacket" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/PICUSBapi.cs StartLineNumber=53 StartCharacterOffset=8 EndLineNumber=53 EndCharacterOffset=8)" />
+    <Node Id="@75" Category="CodeSchema_Method" Bounds="-451.436440927724,-17.7119922196507,70.1838150400001,23.2767907466666" CodeSchemaProperty_IsPrivate="True" CommonLabel="Escalar" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="Escalar" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/impresion3d.cs StartLineNumber=132 StartCharacterOffset=8 EndLineNumber=132 EndCharacterOffset=8)" />
+    <Node Id="@77" Category="CodeSchema_Method" Bounds="-302.840707420992,-26.6650701774437,121.728401493333,23.2945341866666" CodeSchemaProperty_IsPrivate="True" CommonLabel="PromediarPeriodo" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="PromediarPeriodo" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/impresion3d.cs StartLineNumber=141 StartCharacterOffset=8 EndLineNumber=141 EndCharacterOffset=8)" />
+    <Node Id="@78" Category="CodeSchema_Method" Bounds="-351.263562049228,26.6050472700954,111.4008472,23.2767907466666" CodeSchemaProperty_IsPrivate="True" CommonLabel="DecidirDirMotor" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="DecidirDirMotor" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/impresion3d.cs StartLineNumber=185 StartCharacterOffset=8 EndLineNumber=185 EndCharacterOffset=8)" />
+    <Node Id="@79" Category="CodeSchema_Method" Bounds="-426.813545561383,79.8778133833766,157.210881973333,23.2767907466666" CodeSchemaProperty_IsPrivate="True" CommonLabel="ProcesarCampoNumerico" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="ProcesarCampoNumerico" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/impresion3d.cs StartLineNumber=125 StartCharacterOffset=8 EndLineNumber=125 EndCharacterOffset=8)" />
+    <Node Id="@8" Category="CodeSchema_Class" Bounds="-531.197585238304,-279.804867114212,370.08527364597,402.957457234069" CodeSchemaProperty_IsPublic="True" CommonLabel="Impresion3D" DelayedChildNodesState="Incomplete" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Icon="CodeSchema_Class" Label="Impresion3D" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/impresion3d.cs StartLineNumber=17 StartCharacterOffset=4 EndLineNumber=17 EndCharacterOffset=4)" UseManualLocation="True" />
+    <Node Id="@80" Category="CodeSchema_Method" Bounds="-327.961852402391,518.778682902049,80.5324425230694,23.2783482296272" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" CommonLabel="Vector5D" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Constructor" Label="Vector5D" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/vector5d.cs StartLineNumber=13 StartCharacterOffset=8 EndLineNumber=13 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@83" Category="CodeSchema_Method" Bounds="-433.775060031845,331.682520130225,94.7935875466667,23.2783348533333" CodeSchemaProperty_IsPublic="True" CommonLabel="Enviar_Data" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="Enviar_Data" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=101 StartCharacterOffset=8 EndLineNumber=101 EndCharacterOffset=8)" />
+    <Node Id="@84" Category="CodeSchema_Method" Bounds="-47.1051918280304,613.129209778445,93.8299999999999,23.2766666666666" CodeSchemaProperty_IsPublic="True" CommonLabel="EnviarDatos" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="EnviarDatos" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/PICUSBapi.cs StartLineNumber=77 StartCharacterOffset=8 EndLineNumber=77 EndCharacterOffset=8)" />
+    <Node Id="@85" Category="CodeSchema_Method" Bounds="-684.224869957948,454.980196540865,115.816453706667,23.2814773199573" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" CommonLabel="GcodeDocument" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Constructor" Label="GcodeDocument" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/GcodeDocument.cs StartLineNumber=15 StartCharacterOffset=8 EndLineNumber=15 EndCharacterOffset=8)" />
+    <Node Id="@86" Category="CodeSchema_Field" Bounds="11.2731240477441,-11.3213891060639,85.1821362400001,23.2777833866667" CodeSchemaProperty_IsPrivate="True" DelayedCrossGroupLinksState="Fetched" Label="chartRvsY" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/InterfazMain3DPrinter.Designer.cs StartLineNumber=1864 StartCharacterOffset=70 EndLineNumber=1864 EndCharacterOffset=70)" UseManualLocation="True" />
+    <Node Id="@87" Category="CodeSchema_Field" Bounds="-447.325834256487,-133.2148532426,62.2210550666666,23.2767907466666" CodeSchemaProperty_IsPublic="True" DelayedCrossGroupLinksState="Fetched" Label="Delta" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/impresion3d.cs StartLineNumber=24 StartCharacterOffset=24 EndLineNumber=24 EndCharacterOffset=24)" />
+    <Node Id="@88" Category="CodeSchema_Field" Bounds="-511.192135047164,-79.5644626175999,79.0065130933333,23.2767907466666" CodeSchemaProperty_IsPublic="True" DelayedCrossGroupLinksState="Fetched" Label="DirMotor" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/impresion3d.cs StartLineNumber=26 StartCharacterOffset=24 EndLineNumber=26 EndCharacterOffset=24)" />
+    <Node Id="@89" Category="CodeSchema_Field" Bounds="-356.777788223733,601.527467318881,92.5291150133334,23.2783348533333" CodeSchemaProperty_IsPrivate="True" DelayedCrossGroupLinksState="Fetched" Label="Documento" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=37 StartCharacterOffset=22 EndLineNumber=37 EndCharacterOffset=22)" />
+    <Node Id="@90" Category="CodeSchema_Field" Bounds="-272.027714517434,465.500255778026,50.0522130178026,23.278348229627" CodeSchemaProperty_IsPublic="True" DelayedCrossGroupLinksState="Fetched" Label="E" UseManualLocation="True" />
+    <Node Id="@91" Category="CodeSchema_Field" Bounds="-498.413457606611,384.960854983559,114.947393093334,23.2783348533333" CodeSchemaProperty_IsPrivate="True" DelayedCrossGroupLinksState="Fetched" Label="Enviar_Byte[20]" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=24 StartCharacterOffset=24 EndLineNumber=24 EndCharacterOffset=24)" />
+    <Node Id="@92" Category="CodeSchema_Field" Bounds="-272.060246255714,572.05715580244,50.0522130178019,23.278348229627" CodeSchemaProperty_IsPublic="True" DelayedCrossGroupLinksState="Fetched" Label="F" UseManualLocation="True" />
+    <Node Id="@93" Category="CodeSchema_Field" Bounds="-860.137895063859,455.344977192159,107.599474133333,23.2811335466665" CodeSchemaProperty_IsPublic="True" DelayedCrossGroupLinksState="Fetched" Label="GcodeCargado" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/GcodeDocument.cs StartLineNumber=13 StartCharacterOffset=20 EndLineNumber=13 EndCharacterOffset=20)" />
+    <Node Id="@94" Category="CodeSchema_Field" Bounds="-703.741932818157,401.703533874346,72.1733333333334,23.2766666666666" CodeSchemaProperty_IsPublic="True" DelayedCrossGroupLinksState="Fetched" Label="Gcodes" />
+    <Node Id="@96" Category="CodeSchema_Field" Bounds="-11.860909619986,42.6784386722748,131.450199760763,23.2781278299893" CodeSchemaProperty_IsPublic="True" DelayedCrossGroupLinksState="Fetched" Label="GuardarDocumento" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=35 StartCharacterOffset=24 EndLineNumber=35 EndCharacterOffset=24)" UseManualLocation="True" />
+    <Node Id="@97" Category="CodeSchema_Field" Bounds="-302.551635881368,493.249132465548,85.7823189066667,23.2783348533333" CodeSchemaProperty_IsPrivate="True" DelayedCrossGroupLinksState="Fetched" Label="Impresion" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/paulo/documents/paulo/control/etn1040/3dprinter/3dprinterproject/software/3dprinterwfa/3dprinter/interfazmain3dprinter.cs StartLineNumber=38 StartCharacterOffset=20 EndLineNumber=38 EndCharacterOffset=20)" />
+    <Node Id="@98" Category="CodeSchema_Field" Bounds="37.1304341383596,453.299146912234,72.1133333333332,23.2766666666666" CodeSchemaProperty_IsPrivate="True" DelayedCrossGroupLinksState="Fetched" Label="in_pipe" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/PICUSBapi.cs StartLineNumber=15 StartCharacterOffset=15 EndLineNumber=15 EndCharacterOffset=15)" />
+    <Node Id="@99" Category="CodeSchema_Method" Bounds="86.9571928663868,506.575804016726,87.1433333333334,23.2766666666666" CodeSchemaProperty_IsPublic="True" CommonLabel="OpenPipes" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Método" Label="OpenPipes" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/PICUSBapi.cs StartLineNumber=39 StartCharacterOffset=8 EndLineNumber=39 EndCharacterOffset=8)" />
+    <Node Id="ControlManualXYZEF" Bounds="-459.162629994407,546.527467318881,147.3,25" Group="Collapsed" Label="Control Manual XYZEF" LayoutSettings="List" />
+    <Node Id="DirMPaPXYZE" Bounds="-67.0297953818598,427.191306534968,304.441931004695,207.148783141522" Group="Expanded" Label="Direccion XYZE" LayoutSettings="List" UseManualLocation="True" />
+    <Node Id="Gcode" Bounds="-346.245983642384,438.249132465548,70.2633333333333,25" Group="Collapsed" LayoutSettings="LeftToRight" UseManualLocation="True" />
+    <Node Id="Generico" Bounds="-458.836700527291,438.239189836892,82.5906168849067,25.0099426286561" Group="Collapsed" Label="Genérico" />
+    <Node Id="Monitoreo" Bounds="-312.377763744757,223.404185276892,88.4766666666667,25" DelayedChildNodesState="Incomplete" Group="Collapsed" LayoutSettings="LeftToRight" />
+    <Node Id="NumeroDePulsosXYZE" Bounds="-239.294600984629,411.991874807132,156.166666666666,131.106822721354" Group="Expanded" Label="Numero de Pulsos XYZE" LayoutSettings="List" UseManualLocation="True" />
+    <Node Id="PeriodoDePulsosXYZE" Bounds="-239.276820629812,548.894828908694,158.746688130697,131.10688375651" Group="Expanded" Label="Periodo de Pulsos XYZE" LayoutSettings="List" UseManualLocation="True" />
+  </Nodes>
+  <Links>
+    <Link Source="@10" Target="@105" Category="Contains" />
+    <Link Source="@10" Target="@116" Category="Contains" FetchingParent="@10" />
+    <Link Source="@10" Target="@70" Category="Contains" FetchingParent="@10" />
+    <Link Source="@10" Target="@73" Category="Contains" FetchingParent="@10" />
+    <Link Source="@10" Target="@83" Category="Contains" FetchingParent="@10" />
+    <Link Source="@10" Target="@89" Category="Contains" FetchingParent="@10" />
+    <Link Source="@10" Target="@91" Category="Contains" FetchingParent="@10" />
+    <Link Source="@10" Target="@97" Category="Contains" FetchingParent="@10" />
+    <Link Source="@10" Target="ControlManualXYZEF" Category="Contains" />
+    <Link Source="@10" Target="Gcode" Category="Contains" />
+    <Link Source="@10" Target="Generico" Category="Contains" />
+    <Link Source="@10" Target="Monitoreo" Category="Contains" />
+    <Link Source="@101" Target="@15" Category="References" Bounds="-324.310698250708,217.539144825512,60.6499845979887,202.931994695584" Weight="1" />
+    <Link Source="@102" Target="@15" Category="References" Bounds="-323.991033030908,270.817190158845,47.0879226494777,149.691811261645" Weight="1" />
+    <Link Source="@103" Target="@15" Category="References" Bounds="-376.85798461705,217.540423492178,41.8359766286172,202.739540750824" Weight="1" />
+    <Link Source="@106" Target="@101" Category="CodeSchema_FieldRead" Weight="12" />
+    <Link Source="@106" Target="@102" Category="CodeSchema_FieldRead" Weight="5" />
+    <Link Source="@106" Target="@118" Category="CodeSchema_FieldRead" Weight="9" />
+    <Link Source="@106" Target="@119" Category="CodeSchema_FieldRead" Weight="9" />
+    <Link Source="@106" Target="@120" Category="CodeSchema_FieldRead" Weight="9" />
+    <Link Source="@106" Target="@83" Category="CodeSchema_Calls" Bounds="-140.840309136945,222.508840354036,110.890099130909,117.453831981666" Weight="1" />
+    <Link Source="@106" Target="@87" Category="CodeSchema_FieldRead" Weight="12" />
+    <Link Source="@106" Target="@88" Category="CodeSchema_FieldRead" Weight="8" />
+    <Link Source="@106" Target="@89" Category="CodeSchema_FieldRead" Bounds="28.1245875179036,103.438476499667,6.31395797923712,61.0895104044636" Weight="2" />
+    <Link Source="@106" Target="@90" Category="CodeSchema_FieldRead" Weight="9" />
+    <Link Source="@106" Target="@92" Category="CodeSchema_FieldRead" Weight="1" />
+    <Link Source="@106" Target="@93" Category="CodeSchema_FieldRead" Bounds="-196.954057844585,390.37131800331,337.274302012545,12.9713523405446" Weight="1" />
+    <Link Source="@106" Target="@94" Category="CodeSchema_FieldRead" Bounds="-196.954057844585,355.008759442773,493.731464751019,32.3588150987482" Weight="1" />
+    <Link Source="@106" Target="@97" Category="CodeSchema_FieldRead" Bounds="27.0977989651695,50.188772482976,7.75442741542044,114.339214421155" Weight="41" />
+    <Link Source="@116" Target="@12" Category="References" Bounds="43.8226189039663,285.560783525081,35.9750907750301,369.44785071949" Weight="1" />
+    <Link Source="@12" Target="@100" Category="Contains" FetchingParent="@12" />
+    <Link Source="@12" Target="@117" Category="Contains" FetchingParent="@12" />
+    <Link Source="@12" Target="@44" Category="Contains" FetchingParent="@12" />
+    <Link Source="@12" Target="@49" Category="Contains" FetchingParent="@12" />
+    <Link Source="@12" Target="@74" Category="Contains" FetchingParent="@12" />
+    <Link Source="@12" Target="@84" Category="Contains" FetchingParent="@12" />
+    <Link Source="@12" Target="@98" Category="Contains" FetchingParent="@12" />
+    <Link Source="@12" Target="@99" Category="Contains" FetchingParent="@12" />
+    <Link Source="@15" Target="@118" Category="Contains" FetchingParent="@15" />
+    <Link Source="@15" Target="@119" Category="Contains" FetchingParent="@15" />
+    <Link Source="@15" Target="@120" Category="Contains" FetchingParent="@15" />
+    <Link Source="@15" Target="@80" Category="Contains" FetchingParent="@15" />
+    <Link Source="@15" Target="@90" Category="Contains" FetchingParent="@15" />
+    <Link Source="@15" Target="@92" Category="Contains" FetchingParent="@15" />
+    <Link Source="@2" Target="@4" Category="Contains" FetchingParent="@2" />
+    <Link Source="@4" Target="@10" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="@12" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="@15" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="@6" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="@8" Category="Contains" FetchingParent="@4" />
+    <Link Source="@44" Target="@49" Category="CodeSchema_Calls" Bounds="228.12158058104,589.238603371147,25.8428466852318,23.8906022660688" Weight="1" />
+    <Link Source="@46" Target="@93" Category="CodeSchema_FieldWrite" Bounds="-792.650307628451,425.344972585136,16.414707671766,22.7062850689826" Weight="2" />
+    <Link Source="@46" Target="@94" Category="CodeSchema_FieldWrite" Bounds="-733.742077494827,413.50604714357,21.0001596822925,0.0764788324538586" Weight="2" />
+    <Link Source="@47" Target="@101" Category="CodeSchema_FieldRead" Bounds="-346.467866857796,-154.214956079855,1.62700032087957,74.2751873582565" Weight="1" />
+    <Link Source="@47" Target="@102" Category="CodeSchema_FieldRead" Bounds="-391.199127197266,-210.27409362793,39.6184692382813,130.334327697754" Weight="10" />
+    <Link Source="@47" Target="@103" Category="CodeSchema_FieldRead" Bounds="-324.70747095757,-105.731948186674,48.7923256194578,25.7921794650757" Weight="4">
+      <Category Ref="CodeSchema_FieldWrite" />
+    </Link>
+    <Link Source="@47" Target="@118" Category="CodeSchema_FieldRead" Bounds="-328.662818691817,141.850682742132,1.80176435544792,349.107586528592" Weight="1" />
+    <Link Source="@47" Target="@119" Category="CodeSchema_FieldRead" Weight="1" />
+    <Link Source="@47" Target="@120" Category="CodeSchema_FieldRead" Weight="1" />
+    <Link Source="@47" Target="@75" Category="CodeSchema_Calls" Bounds="-396.615876531219,-56.664673993686,36.8726924195205,32.9565775796179" Weight="1" />
+    <Link Source="@47" Target="@77" Category="CodeSchema_Calls" Bounds="-323.842475043233,-56.664673993686,50.9567685166141,25.917994042714" Weight="1" />
+    <Link Source="@47" Target="@78" Category="CodeSchema_Calls" Bounds="-341.134719095802,-56.664673993686,36.0892495789356,75.1584100112937" Weight="1" />
+    <Link Source="@47" Target="@79" Category="CodeSchema_Calls" Bounds="-356.092864990234,-56.6646728515625,8.30978393554688,127.722496032715" Weight="5" />
+    <Link Source="@47" Target="@87" Category="CodeSchema_FieldRead" Bounds="-393.894027756731,-104.463827170882,31.9905663000114,24.524058449284" Weight="2">
+      <Category Ref="CodeSchema_FieldWrite" />
+    </Link>
+    <Link Source="@47" Target="@88" Category="CodeSchema_FieldRead" Bounds="-423.192588227671,-68.1352275440814,20.999131991871,0.0632176468279226" Weight="1" />
+    <Link Source="@47" Target="@90" Category="CodeSchema_FieldRead" Weight="1" />
+    <Link Source="@47" Target="@92" Category="CodeSchema_FieldRead" Weight="2" />
+    <Link Source="@49" Target="@99" Category="CodeSchema_Calls" Bounds="155.097971891038,534.91120762528,36.7001775122554,24.9412851233558" Weight="1" />
+    <Link Source="@51" Target="@46" Category="CodeSchema_Calls" Bounds="-146.672521869193,338.176016046118,345.276659072634,12.7162590522088" Weight="1" />
+    <Link Source="@51" Target="@89" Category="CodeSchema_FieldRead" Bounds="-56.5244672878351,102.733969999108,73.8363992819579,169.073882751017" Weight="3" />
+    <Link Source="@51" Target="@93" Category="CodeSchema_FieldRead" Bounds="-155.003217379591,346.901807083719,295.442640783197,48.5554947669118" Weight="1" />
+    <Link Source="@51" Target="@94" Category="CodeSchema_FieldRead" Bounds="-146.672521869193,337.602502257727,443.434597548872,13.1188184748347" Weight="1" />
+    <Link Source="@52" Target="@101" Category="CodeSchema_FieldRead" Weight="12" />
+    <Link Source="@52" Target="@102" Category="CodeSchema_FieldRead" Weight="5" />
+    <Link Source="@52" Target="@118" Category="CodeSchema_FieldRead" Weight="9" />
+    <Link Source="@52" Target="@119" Category="CodeSchema_FieldRead" Weight="9" />
+    <Link Source="@52" Target="@120" Category="CodeSchema_FieldRead" Weight="9" />
+    <Link Source="@52" Target="@83" Category="CodeSchema_Calls" Bounds="-97.5960261384503,224.458918926993,77.7623522232396,222.068695099498" Weight="1" />
+    <Link Source="@52" Target="@87" Category="CodeSchema_FieldRead" Weight="12" />
+    <Link Source="@52" Target="@88" Category="CodeSchema_FieldRead" Weight="8" />
+    <Link Source="@52" Target="@90" Category="CodeSchema_FieldRead" Weight="9" />
+    <Link Source="@52" Target="@92" Category="CodeSchema_FieldRead" Weight="1" />
+    <Link Source="@52" Target="@97" Category="CodeSchema_FieldRead" Weight="40" />
+    <Link Source="@53" Target="@115" Category="CodeSchema_FieldRead" Bounds="-59.8518753051758,108.317504882813,21,0" Weight="1" />
+    <Link Source="@53" Target="@96" Category="CodeSchema_FieldReference" Bounds="-105.763916015625,68.265022277832,107.069880604744,28.4134216308594" Weight="2">
+      <Category Ref="CodeSchema_FieldWrite" />
+    </Link>
+    <Link Source="@54" Target="@115" Category="CodeSchema_FieldReference" Bounds="-105.763916015625,122.264854431152,107.070529580116,28.4135818481445" Weight="1">
+      <Category Ref="CodeSchema_FieldRead" />
+    </Link>
+    <Link Source="@55" Target="@86" Category="CodeSchema_FieldReference" Bounds="-105.763916015625,-42.0434265136719,109.4850461483,29.0543365478516" Weight="2">
+      <Category Ref="CodeSchema_FieldRead" />
+    </Link>
+    <Link Source="@56" Target="@107" Category="CodeSchema_FieldRead" Bounds="-43.965846547221,427.201926853104,197.961973847459,93.5252170982117" Weight="1" />
+    <Link Source="@56" Target="@111" Category="CodeSchema_FieldRead" Bounds="16.9617102721474,537.675008142545,89.3510364328873,6.51104640083645" Weight="1" />
+    <Link Source="@56" Target="@83" Category="CodeSchema_Calls" Bounds="27.9215611078149,58.4985846094229,147.067940209124,462.228559341892" Weight="1" />
+    <Link Source="@57" Target="@108" Category="CodeSchema_FieldReference" Bounds="4.20522749447581,426.711776179198,23.5796894527055,2.44332351138507" Weight="1">
+      <Category Ref="CodeSchema_FieldRead" />
+    </Link>
+    <Link Source="@57" Target="@112" Category="CodeSchema_FieldRead" Bounds="-41.3984583792507,430.847066190361,129.707594131302,126.598805897189" Weight="1" />
+    <Link Source="@57" Target="@83" Category="CodeSchema_Calls" Bounds="30.4546289107055,264.761699505443,64.5225619460991,142.799655316138" Weight="1" />
+    <Link Source="@58" Target="@109" Category="CodeSchema_FieldReference" Bounds="-27.567062275274,424.5670567038,81.929343577307,23.5783062389906" Weight="1">
+      <Category Ref="CodeSchema_FieldRead" />
+    </Link>
+    <Link Source="@58" Target="@113" Category="CodeSchema_FieldRead" Bounds="-44.384358936189,424.5670567038,129.701027014371,157.610634283039" Weight="1" />
+    <Link Source="@58" Target="@83" Category="CodeSchema_Calls" Bounds="28.0083346591535,205.499727197945,63.1479559600269,195.721878190671" Weight="1" />
+    <Link Source="@59" Target="@110" Category="CodeSchema_FieldRead" Bounds="-50.2453150203156,386.297481425774,137.424459157987,84.8678842698809" Weight="1" />
+    <Link Source="@59" Target="@114" Category="CodeSchema_FieldRead" Bounds="-47.1967284513391,386.297481425774,145.543408640272,220.562609010144" Weight="1" />
+    <Link Source="@59" Target="@83" Category="CodeSchema_Calls" Bounds="28.9475561562681,167.1668348916,72.7559677343915,195.850438538024" Weight="1" />
+    <Link Source="@6" Target="@46" Category="Contains" FetchingParent="@6" />
+    <Link Source="@6" Target="@85" Category="Contains" FetchingParent="@6" />
+    <Link Source="@6" Target="@93" Category="Contains" FetchingParent="@6" />
+    <Link Source="@6" Target="@94" Category="Contains" FetchingParent="@6" />
+    <Link Source="@60" Target="@96" Category="CodeSchema_FieldWrite" Bounds="-66.5928192138672,54.3175086975098,45.731912612915,0" Weight="1" />
+    <Link Source="@61" Target="@107" Category="CodeSchema_FieldReference" Bounds="-21.7417167472897,425.552892520459,145.466098249737,36.5906226879642" Weight="1">
+      <Category Ref="CodeSchema_FieldRead" />
+    </Link>
+    <Link Source="@61" Target="@111" Category="CodeSchema_FieldReference" Bounds="-16.2715715563495,485.423723204573,151.254483392304,50.2793386241827" Weight="1">
+      <Category Ref="CodeSchema_FieldRead" />
+    </Link>
+    <Link Source="@61" Target="@83" Category="CodeSchema_Calls" Bounds="30.3168489132822,159.455038382386,134.510107434766,302.688476826037" Weight="1" />
+    <Link Source="@62" Target="@108" Category="CodeSchema_FieldRead" Bounds="-19.6130864506896,384.145070734678,162.099761123385,39.0859554491261" Weight="1" />
+    <Link Source="@62" Target="@112" Category="CodeSchema_FieldReference" Bounds="-43.3892242927867,384.145070734677,219.511946422701,174.039986091543" Weight="1">
+      <Category Ref="CodeSchema_FieldRead" />
+    </Link>
+    <Link Source="@62" Target="@83" Category="CodeSchema_Calls" Bounds="31.4547742250974,57.9505357384167,153.462792852644,302.884654532371" Weight="1" />
+    <Link Source="@63" Target="@109" Category="CodeSchema_FieldRead" Bounds="-1.26042921613366,435.394387041723,119.40051173089,16.4752552244482" Weight="1" />
+    <Link Source="@63" Target="@113" Category="CodeSchema_FieldReference" Bounds="-40.9178294768926,437.446735955165,211.784231128815,146.557598822573" Weight="1">
+      <Category Ref="CodeSchema_FieldRead" />
+    </Link>
+    <Link Source="@63" Target="@83" Category="CodeSchema_Calls" Bounds="30.0297381015411,58.1934825200831,152.675445344406,355.951688214594" Weight="1" />
+    <Link Source="@64" Target="@110" Category="CodeSchema_FieldReference" Bounds="-1.31938101454806,481.358413363526,113.683390402025,3.71160393583881" Weight="1">
+      <Category Ref="CodeSchema_FieldRead" />
+    </Link>
+    <Link Source="@64" Target="@114" Category="CodeSchema_FieldReference" Bounds="-37.9686820323588,490.727043951315,200.319165515937,119.045702001331" Weight="1">
+      <Category Ref="CodeSchema_FieldRead" />
+    </Link>
+    <Link Source="@64" Target="@83" Category="CodeSchema_Calls" Bounds="28.8044761783613,58.3794095833126,148.896034869999,409.067426371853" Weight="1" />
+    <Link Source="@65" Target="@83" Category="CodeSchema_Calls" Bounds="-89.8925850229484,224.297292548346,68.9574655751763,168.947641476637" Weight="1" />
+    <Link Source="@65" Target="@97" Category="CodeSchema_FieldRead" Weight="1" />
+    <Link Source="@66" Target="@106" Category="CodeSchema_Calls" Bounds="-335.049377441406,393.696929931641,58.7354125976563,26.9650573730469" Weight="1" />
+    <Link Source="@67" Target="@89" Category="CodeSchema_FieldRead" Weight="1" />
+    <Link Source="@67" Target="@93" Category="CodeSchema_FieldRead" Weight="1" />
+    <Link Source="@68" Target="@105" Category="CodeSchema_FieldReference" Bounds="-68.6185757427551,-258.315892139693,181.147734356496,468.065986337908" Weight="3">
+      <Category Ref="CodeSchema_FieldRead" />
+    </Link>
+    <Link Source="@68" Target="@116" Category="CodeSchema_FieldRead" Bounds="-640.514343261719,-3608.40747070313,519.445091247559,1985.08374023438" Weight="1" />
+    <Link Source="@68" Target="@44" Category="CodeSchema_Calls" Bounds="-89.9656218194799,418.328058013563,398.840659391889,482.911759542912" Weight="1" />
+    <Link Source="@68" Target="@86" Category="CodeSchema_FieldRead" Bounds="-82.5725936889648,0.317507714033127,84.8457190990448,0" Weight="2" />
+    <Link Source="@68" Target="@96" Category="CodeSchema_FieldRead" Bounds="-105.763916015625,11.9565715789795,107.069880604744,28.4134197235107" Weight="1" />
+    <Link Source="@69" Target="@105" Category="CodeSchema_FieldRead" Bounds="-295.82688428693,159.960979999417,10.3123012042966,186.456884316178" Weight="1" />
+    <Link Source="@69" Target="@106" Category="CodeSchema_Calls" Bounds="-304.861206054688,378.300842285156,24.22314453125,0" Weight="1" />
+    <Link Source="@70" Target="@83" Category="CodeSchema_Calls" Bounds="-384.645294189453,363.862030029297,14.3479309082031,129.395904541016" Weight="1" />
+    <Link Source="@72" Target="@83" Category="CodeSchema_Calls" Bounds="-396.054107666016,-3494.04711914063,167.07698059082,1817.73413085938" Weight="2" />
+    <Link Source="@73" Target="@83" Category="CodeSchema_Calls" Bounds="-407.165748707197,248.412482013745,16.3136916233637,74.4869198356454" Weight="1" />
+    <Link Source="@74" Target="@99" Category="CodeSchema_Calls" Bounds="70.3503857557624,534.973395515288,35.9568898864889,24.8790780706147" Weight="1" />
+    <Link Source="@75" Target="@118" Category="CodeSchema_FieldRead" Bounds="-444.894159186121,186.484937652924,110.707027690938,294.364026555747" Weight="4">
+      <Category Ref="CodeSchema_FieldWrite" />
+    </Link>
+    <Link Source="@75" Target="@119" Category="CodeSchema_FieldRead" Bounds="-447.224979544897,186.484937652924,61.0443880749397,347.202402213921" Weight="4">
+      <Category Ref="CodeSchema_FieldWrite" />
+    </Link>
+    <Link Source="@75" Target="@120" Category="CodeSchema_FieldRead" Bounds="-443.819568616512,186.484937652924,187.927974785088,401.194729773138" Weight="4">
+      <Category Ref="CodeSchema_FieldWrite" />
+    </Link>
+    <Link Source="@75" Target="@15" Category="References" Bounds="-445.027055341004,186.484937652924,92.7474544426985,254.332547046363" Weight="2" />
+    <Link Source="@75" Target="@90" Category="CodeSchema_FieldRead" Bounds="-442.036833792041,186.484937652924,183.461325140403,295.14432322359" Weight="4">
+      <Category Ref="CodeSchema_FieldWrite" />
+    </Link>
+    <Link Source="@75" Target="@92" Category="CodeSchema_FieldRead" Bounds="-445.973121600625,186.484937652924,113.546842920907,400.685859064537" Weight="4">
+      <Category Ref="CodeSchema_FieldWrite" />
+    </Link>
+    <Link Source="@77" Target="@118" Category="CodeSchema_FieldRead" Bounds="-330.052257139003,301.680982742132,2.97350441789001,189.278277036783" Weight="16">
+      <Category Ref="CodeSchema_FieldWrite" />
+    </Link>
+    <Link Source="@77" Target="@119" Category="CodeSchema_FieldRead" Weight="17">
+      <Category Ref="CodeSchema_FieldWrite" />
+    </Link>
+    <Link Source="@77" Target="@120" Category="CodeSchema_FieldRead" Weight="4">
+      <Category Ref="CodeSchema_FieldWrite" />
+    </Link>
+    <Link Source="@77" Target="@15" Category="References" Weight="2" />
+    <Link Source="@77" Target="@90" Category="CodeSchema_FieldRead" Weight="17">
+      <Category Ref="CodeSchema_FieldWrite" />
+    </Link>
+    <Link Source="@78" Target="@118" Category="CodeSchema_FieldRead" Bounds="-323.012815301579,248.404216075466,44.3139240393703,242.700304618827" Weight="6">
+      <Category Ref="CodeSchema_FieldWrite" />
+    </Link>
+    <Link Source="@78" Target="@119" Category="CodeSchema_FieldRead" Weight="6">
+      <Category Ref="CodeSchema_FieldWrite" />
+    </Link>
+    <Link Source="@78" Target="@120" Category="CodeSchema_FieldRead" Weight="6">
+      <Category Ref="CodeSchema_FieldWrite" />
+    </Link>
+    <Link Source="@78" Target="@15" Category="References" Weight="3" />
+    <Link Source="@78" Target="@90" Category="CodeSchema_FieldRead" Weight="6">
+      <Category Ref="CodeSchema_FieldWrite" />
+    </Link>
+    <Link Source="@8" Target="@101" Category="Contains" FetchingParent="@8" />
+    <Link Source="@8" Target="@102" Category="Contains" FetchingParent="@8" />
+    <Link Source="@8" Target="@103" Category="Contains" FetchingParent="@8" />
+    <Link Source="@8" Target="@47" Category="Contains" FetchingParent="@8" />
+    <Link Source="@8" Target="@75" Category="Contains" FetchingParent="@8" />
+    <Link Source="@8" Target="@77" Category="Contains" FetchingParent="@8" />
+    <Link Source="@8" Target="@78" Category="Contains" FetchingParent="@8" />
+    <Link Source="@8" Target="@79" Category="Contains" FetchingParent="@8" />
+    <Link Source="@8" Target="@87" Category="Contains" FetchingParent="@8" />
+    <Link Source="@8" Target="@88" Category="Contains" FetchingParent="@8" />
+    <Link Source="@80" Target="@118" Category="CodeSchema_FieldWrite" Bounds="-313.108080676733,496.017663282276,16.8142458200491,22.7610269258769" Weight="1" />
+    <Link Source="@80" Target="@119" Category="CodeSchema_FieldWrite" Bounds="-348.961954577402,530.417862701781,21.0001004249952,3.57890485247481E-07" Weight="1" />
+    <Link Source="@80" Target="@120" Category="CodeSchema_FieldWrite" Bounds="-313.130641366683,542.057037283648,16.829701475616,22.7631387827423" Weight="1" />
+    <Link Source="@80" Target="@90" Category="CodeSchema_FieldWrite" Bounds="-278.805626995052,495.93103598673,17.4510467995746,22.8476542214228" Weight="1" />
+    <Link Source="@80" Target="@92" Category="CodeSchema_FieldWrite" Bounds="-278.812732029434,542.057037283648,17.4354922029046,22.8455480082446" Weight="1" />
+    <Link Source="@83" Target="@116" Category="CodeSchema_FieldRead" Bounds="-374.013001072856,307.859778542902,25.3162058033022,23.8312383241759" Weight="1" />
+    <Link Source="@83" Target="@84" Category="CodeSchema_Calls" Bounds="-104.34100855799,292.608769145216,140.716596225998,514.506810774381" Weight="1" />
+    <Link Source="@83" Target="@91" Category="CodeSchema_FieldRead" Bounds="-422.58023454069,354.969351720412,24.2833447554241,23.7123012535011" Weight="40" />
+    <Link Source="@84" Target="@74" Category="CodeSchema_Calls" Bounds="11.5449901832751,589.466676875638,23.8594450388463,23.6625308008224" Weight="1" />
+    <Link Source="@85" Target="@94" Category="CodeSchema_FieldWrite" Bounds="-653.108160471801,432.090856304069,17.7595798424915,22.8893267994014" Weight="1" />
+    <Link Source="@87" Target="@15" Category="References" Bounds="-327.679552980549,324.093956825511,13.209152948533,96.0841601511073" Weight="1" />
+    <Link Source="@88" Target="@15" Category="References" Bounds="-388.231182916242,270.817190158845,50.5142104453657,149.749185235834" Weight="1" />
+    <Link Source="@89" Target="@6" Category="References" Bounds="-555.031064905038,502.349969846943,218.838757430463,99.1864942087909" Weight="1" />
+    <Link Source="@97" Target="@8" Category="References" Bounds="-590.125622717159,192.374491032874,390.775756587602,44.8851651143191" Weight="1" />
+    <Link Source="@99" Target="@100" Category="CodeSchema_FieldRead" Bounds="129.692128890997,432.287857876603,0.723397818774572,74.2879506847755" Weight="1" />
+    <Link Source="@99" Target="@117" Category="CodeSchema_FieldRead" Bounds="145.09710777331,482.193275272431,30.5207649853501,24.3825332889472" Weight="2" />
+    <Link Source="@99" Target="@98" Category="CodeSchema_FieldRead" Bounds="92.3068266154064,482.701762753125,25.6956742639942,23.8740458082532" Weight="1" />
+    <Link Source="ControlManualXYZEF" Target="DirMPaPXYZE" Category="Contains" />
+    <Link Source="ControlManualXYZEF" Target="NumeroDePulsosXYZE" Category="Contains" />
+    <Link Source="ControlManualXYZEF" Target="PeriodoDePulsosXYZE" Category="Contains" />
+    <Link Source="DirMPaPXYZE" Target="@56" Category="Contains" />
+    <Link Source="DirMPaPXYZE" Target="@57" Category="Contains" />
+    <Link Source="DirMPaPXYZE" Target="@58" Category="Contains" />
+    <Link Source="DirMPaPXYZE" Target="@59" Category="Contains" />
+    <Link Source="DirMPaPXYZE" Target="@61" Category="Contains" />
+    <Link Source="DirMPaPXYZE" Target="@62" Category="Contains" />
+    <Link Source="DirMPaPXYZE" Target="@63" Category="Contains" />
+    <Link Source="DirMPaPXYZE" Target="@64" Category="Contains" />
+    <Link Source="Gcode" Target="@106" Category="Contains" />
+    <Link Source="Gcode" Target="@51" Category="Contains" />
+    <Link Source="Gcode" Target="@52" Category="Contains" />
+    <Link Source="Gcode" Target="@65" Category="Contains" />
+    <Link Source="Gcode" Target="@66" Category="Contains" />
+    <Link Source="Gcode" Target="@67" Category="Contains" />
+    <Link Source="Gcode" Target="@69" Category="Contains" />
+    <Link Source="Generico" Target="(@1 @3 @9 Member=Status_Dispositivo)" Category="Contains" />
+    <Link Source="Generico" Target="@72" Category="Contains" />
+    <Link Source="Monitoreo" Target="@115" Category="Contains" />
+    <Link Source="Monitoreo" Target="@53" Category="Contains" />
+    <Link Source="Monitoreo" Target="@54" Category="Contains" />
+    <Link Source="Monitoreo" Target="@55" Category="Contains" />
+    <Link Source="Monitoreo" Target="@60" Category="Contains" />
+    <Link Source="Monitoreo" Target="@68" Category="Contains" />
+    <Link Source="Monitoreo" Target="@86" Category="Contains" />
+    <Link Source="Monitoreo" Target="@96" Category="Contains" />
+    <Link Source="NumeroDePulsosXYZE" Target="@107" Category="Contains" />
+    <Link Source="NumeroDePulsosXYZE" Target="@108" Category="Contains" />
+    <Link Source="NumeroDePulsosXYZE" Target="@109" Category="Contains" />
+    <Link Source="NumeroDePulsosXYZE" Target="@110" Category="Contains" />
+    <Link Source="PeriodoDePulsosXYZE" Target="@111" Category="Contains" />
+    <Link Source="PeriodoDePulsosXYZE" Target="@112" Category="Contains" />
+    <Link Source="PeriodoDePulsosXYZE" Target="@113" Category="Contains" />
+    <Link Source="PeriodoDePulsosXYZE" Target="@114" Category="Contains" />
+  </Links>
+  <Categories>
+    <Category Id="CodeSchema_Assembly" Label="Ensamblado" BasedOn="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Assembly" NavigationActionLabel="Ensamblados" />
+    <Category Id="CodeSchema_Calls" Label="Llamadas" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Llamado por" OutgoingActionLabel="Llama a" />
+    <Category Id="CodeSchema_Class" Label="Clase" BasedOn="CodeSchema_Type" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Class" NavigationActionLabel="Clases" />
+    <Category Id="CodeSchema_Field" Label="Campo" BasedOn="CodeSchema_Member" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Field" NavigationActionLabel="Campos" />
+    <Category Id="CodeSchema_FieldRead" Label="Lectura de campo" BasedOn="CodeSchema_FieldReference" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Leído por" OutgoingActionLabel="Lee campos" />
+    <Category Id="CodeSchema_FieldReference" Label="Referencia de campo" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Referenciado por" OutgoingActionLabel="Hace referencia a campos" />
+    <Category Id="CodeSchema_FieldWrite" Label="Escritura de campo" BasedOn="CodeSchema_FieldReference" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Escrito por" OutgoingActionLabel="Escribe campos" />
+    <Category Id="CodeSchema_Member" Label="Miembro" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Field" NavigationActionLabel="Miembros" />
+    <Category Id="CodeSchema_Method" Label="Método" BasedOn="CodeSchema_Member" CanBeDataDriven="True" DefaultAction="Link:Forward:CodeSchema_Calls" Icon="CodeSchema_Method" NavigationActionLabel="Métodos" />
+    <Category Id="CodeSchema_Namespace" Label="Espacio de nombres" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Type" Icon="CodeSchema_Namespace" NavigationActionLabel="Espacios de nombres" />
+    <Category Id="CodeSchema_Struct" Label="Struct" BasedOn="CodeSchema_Type" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Struct" NavigationActionLabel="Structs" />
+    <Category Id="CodeSchema_Type" Label="Tipo" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Class" NavigationActionLabel="Tipos" />
+    <Category Id="Contains" Label="Contiene" Description="Indica si el origen del vínculo contiene el objeto de destino." CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Contenido por" IsContainment="True" OutgoingActionLabel="Contiene" />
+    <Category Id="File" Label="Archivo" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="File" NavigationActionLabel="Archivos" />
+    <Category Id="FileSystem.Category.FileOfType.exe" BasedOn="CodeSchema_Assembly" CanBeDataDriven="True" IsProviderRoot="False" />
+    <Category Id="References" Label="Hace referencia a" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Referenciado por" OutgoingActionLabel="Hace referencia a" />
+  </Categories>
+  <Properties>
+    <Property Id="AssemblyTimestamp" DataType="System.DateTime" />
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsConstructor" Label="Constructor" Description="Marca para indicar que el método es un constructor." DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsFinal" Label="Final" Description="Marca para indicar que el miembro es 'Final' y nada puede derivarse de él." DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPrivate" Label="Privado" Description="Marca para indicar que el ámbito es Private." DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPublic" Label="Público" Description="Marca para indicar que el ámbito es Public." DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsSpecialName" Label="Nombre especial" Description="Marca para indicar que algunos compiladores tratan el método de forma especial." DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_StrongName" Label="StrongName" Description="StrongName" DataType="System.String" />
+    <Property Id="CommonLabel" DataType="System.String" />
+    <Property Id="DataVirtualized" Label="Datos virtualizados" Description="Si es true, el gráfico puede contener nodos y vínculos que representan datos de los nodos o vínculos virtualizados (es decir, no creados realmente en el gráfico)." DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="DelayedChildNodesState" Label="Estado de nodos secundarios retrasados" Description="No se especifica si el estado de los nodos secundarios retrasados no está especificado. NotFetched si el grupo contiene nodos secundarios no recuperados aún en el gráfico. Fetched si el grupo ya ha recuperado todos los nodos secundarios retrasados." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="DelayedCrossGroupLinksState" Label="Estado de vínculos entre grupos retrasados" Description="No se especifica si el estado de los vínculos entre grupos retrasados no está especificado. NotFetched si los vínculos entre grupos retrasados de este nodo no se han recuperado aún en el gráfico. Fetched si todos los vínculos indicados ya se han recuperado." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="FetchedChildrenCount" DataType="System.Int32" />
+    <Property Id="FetchingParent" DataType="Microsoft.VisualStudio.GraphModel.GraphNodeId" />
+    <Property Id="FilePath" Label="Ruta de acceso del archivo" Description="Ruta de acceso del archivo" DataType="System.String" />
+    <Property Id="FunctionTypeFlags" Label="FunctionTypeFlags" Description="FunctionTypeFlags" DataType="System.String" />
+    <Property Id="GraphDirection" DataType="Microsoft.VisualStudio.Diagrams.Layout.LayoutOrientation" />
+    <Property Id="Group" Label="Grupo" Description="Muestra el nodo como grupo" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" Label="Icono" Description="Icono" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="Label" Label="Etiqueta" Description="Etiqueta Displayable de un objeto Annotatable." DataType="System.String" />
+    <Property Id="Language" Label="Lenguaje" Description="Lenguaje" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="LayoutSettings" DataType="Microsoft.VisualStudio.Diagrams.View.GroupLayoutStyle" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="SourceLocation" Label="Número de línea de inicio" DataType="Microsoft.VisualStudio.GraphModel.CodeSchema.SourceLocation" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="UseManualLocation" DataType="System.Boolean" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+    <Property Id="Weight" Label="Peso" Description="Peso" DataType="System.Double" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Ensamblado" ValueType="Uri" />
+    <Name Id="Indirection" Label="Direccionamiento indirecto" ValueType="System.String" />
+    <Name Id="Member" Label="Miembro" ValueType="System.Object" />
+    <Name Id="Name" Label="Nombre" ValueType="System.String" />
+    <Name Id="Namespace" Label="Espacio de nombres" ValueType="System.String" />
+    <Name Id="OverloadingParameters" Label="Parámetro" ValueType="Microsoft.VisualStudio.GraphModel.GraphNodeIdCollection" Formatter="NameValueNoEscape" />
+    <Name Id="ParamKind" Label="Parameter Kind" ValueType="Microsoft.VisualStudio.GraphModel.CodeSchema.ParamKind" />
+    <Name Id="Type" Label="Tipo" ValueType="System.Object" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(42f9c504-5dfb-427e-8126-ec9b5ca07184.OutputPathUri)" />
+    <Alias n="2" Id="(@1)" />
+    <Alias n="3" Id="Namespace=ControlUSB" />
+    <Alias n="4" Id="(@1 @3)" />
+    <Alias n="5" Id="Type=GcodeDocument" />
+    <Alias n="6" Id="(@1 @3 @5)" />
+    <Alias n="7" Id="Type=Impresion3D" />
+    <Alias n="8" Id="(@1 @3 @7)" />
+    <Alias n="9" Id="Type=InterfazMain3DPrinter" />
+    <Alias n="10" Id="(@1 @3 @9)" />
+    <Alias n="11" Id="Type=PICUSBapi" />
+    <Alias n="12" Id="(@1 @3 @11)" />
+    <Alias n="14" Id="Type=Vector5D" />
+    <Alias n="15" Id="(@1 @3 @14)" />
+    <Alias n="16" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.5/mscorlib.dll" />
+    <Alias n="17" Id="Namespace=System" />
+    <Alias n="42" Id="Namespace=System.Windows.Forms" />
+    <Alias n="44" Id="(@1 @3 @11 Member=(Name=RecibirDatos OverloadingParameters=[(@16 @17 Type=Int32)]))" />
+    <Alias n="45" Id="(@16 @17 Type=String)" />
+    <Alias n="46" Id="(@1 @3 @5 Member=(Name=Cargar OverloadingParameters=[@45]))" />
+    <Alias n="47" Id="(@1 @3 @7 Member=(Name=ControlledMove OverloadingParameters=[@45]))" />
+    <Alias n="49" Id="(@1 @3 @11 Member=(Name=ReceivePacket OverloadingParameters=[(@16 @17 Type=(Name=Byte Indirection=1)),(@16 @17 Type=(Name=UInt32 Indirection=1))]))" />
+    <Alias n="50" Id="OverloadingParameters=[(@16 @17 Type=Object),(@16 @17 Type=EventArgs)]" />
+    <Alias n="51" Id="(@1 @3 @9 Member=(Name=buttonCargarGcode_Click @50))" />
+    <Alias n="52" Id="(@1 @3 @9 Member=(Name=buttonEnviarGcode_Click @50))" />
+    <Alias n="53" Id="(@1 @3 @9 Member=(Name=buttonGuardarMuestreo_Click @50))" />
+    <Alias n="54" Id="(@1 @3 @9 Member=(Name=buttonIniciarMuestreo_Click @50))" />
+    <Alias n="55" Id="(@1 @3 @9 Member=(Name=buttonLimpiarMuestreo_Click @50))" />
+    <Alias n="56" Id="(@1 @3 @9 Member=(Name=buttonNegativoE_Click @50))" />
+    <Alias n="57" Id="(@1 @3 @9 Member=(Name=buttonNegativoX_Click @50))" />
+    <Alias n="58" Id="(@1 @3 @9 Member=(Name=buttonNegativoY_Click @50))" />
+    <Alias n="59" Id="(@1 @3 @9 Member=(Name=buttonNegativoZ_Click @50))" />
+    <Alias n="60" Id="(@1 @3 @9 Member=(Name=buttonPararMuestreo_Click @50))" />
+    <Alias n="61" Id="(@1 @3 @9 Member=(Name=buttonPositivoE_Click @50))" />
+    <Alias n="62" Id="(@1 @3 @9 Member=(Name=buttonPositivoX_Click_1 @50))" />
+    <Alias n="63" Id="(@1 @3 @9 Member=(Name=buttonPositivoY_Click @50))" />
+    <Alias n="64" Id="(@1 @3 @9 Member=(Name=buttonPositivoZ_Click @50))" />
+    <Alias n="65" Id="(@1 @3 @9 Member=(Name=buttonResetStep_Click @50))" />
+    <Alias n="66" Id="(@1 @3 @9 Member=(Name=buttonStep_Click @50))" />
+    <Alias n="67" Id="(@1 @3 @9 Member=(Name=buttonTimerStep_Click @50))" />
+    <Alias n="68" Id="(@1 @3 @9 Member=(Name=TimerMuestreo_Tick @50))" />
+    <Alias n="69" Id="(@1 @3 @9 Member=(Name=TimerStep_Tick @50))" />
+    <Alias n="70" Id="(@1 @3 @9 Member=(Name=trackBarGlaGlc_Scroll @50))" />
+    <Alias n="71" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.5/System.Windows.Forms.dll" />
+    <Alias n="72" Id="(@1 @3 @9 Member=(Name=Cierre_App OverloadingParameters=[(@16 @17 Type=Object),(@71 @42 Type=FormClosingEventArgs)]))" />
+    <Alias n="73" Id="(@1 @3 @9 Member=(Name=hScrollBarPWM_Scroll OverloadingParameters=[(@16 @17 Type=Object),(@71 @42 Type=ScrollEventArgs)]))" />
+    <Alias n="74" Id="(@1 @3 @11 Member=(Name=SendPacket OverloadingParameters=[(@16 @17 Type=(Name=Byte Indirection=1)),(@16 @17 Type=UInt32)]))" />
+    <Alias n="75" Id="(@1 @3 @7 Member=(Name=Escalar OverloadingParameters=[(@1 @3 @14 ParamKind=Ref),@15]))" />
+    <Alias n="76" Id="(@16 @17 Type=Decimal)" />
+    <Alias n="77" Id="(@1 @3 @7 Member=(Name=PromediarPeriodo OverloadingParameters=[(@1 @3 @14 ParamKind=Ref),@15,@76]))" />
+    <Alias n="78" Id="(@1 @3 @7 Member=(Name=DecidirDirMotor OverloadingParameters=[(@1 @3 @14 ParamKind=Ref),@15,@15]))" />
+    <Alias n="79" Id="(@1 @3 @7 Member=(Name=ProcesarCampoNumerico OverloadingParameters=[@45,@45,(@16 @17 Type=Decimal ParamKind=Ref)]))" />
+    <Alias n="80" Id="(@1 @3 @14 Member=(Name=.ctor OverloadingParameters=[@76,@76,@76,@76,@76]))" />
+    <Alias n="81" Id="(@16 @17 Type=UInt16)" />
+    <Alias n="82" Id="(@16 @17 Type=Byte)" />
+    <Alias n="83" Id="(@1 @3 @9 Member=(Name=Enviar_Data OverloadingParameters=[@81,@81,@81,@81,@81,@81,@82,@82,@82,@82,@82,@82,@82,@82]))" />
+    <Alias n="84" Id="(@1 @3 @11 Member=(Name=EnviarDatos OverloadingParameters=[@82,@82,@82,@82,@82,@82,@82,@82,@82,@82,@82,@82,@82,@82,@82,@82,@82,@82,@82,@82]))" />
+    <Alias n="85" Id="(@1 @3 @5 Member=.ctor)" />
+    <Alias n="86" Id="(@1 @3 @9 Member=chartRvsY)" />
+    <Alias n="87" Id="(@1 @3 @7 Member=Delta)" />
+    <Alias n="88" Id="(@1 @3 @7 Member=DirMotor)" />
+    <Alias n="89" Id="(@1 @3 @9 Member=Documento)" />
+    <Alias n="90" Id="(@1 @3 @14 Member=E)" />
+    <Alias n="91" Id="(@1 @3 @9 Member=Enviar_Byte)" />
+    <Alias n="92" Id="(@1 @3 @14 Member=F)" />
+    <Alias n="93" Id="(@1 @3 @5 Member=GcodeCargado)" />
+    <Alias n="94" Id="(@1 @3 @5 Member=Gcodes)" />
+    <Alias n="96" Id="(@1 @3 @9 Member=GuardarDocumento)" />
+    <Alias n="97" Id="(@1 @3 @9 Member=Impresion)" />
+    <Alias n="98" Id="(@1 @3 @11 Member=in_pipe)" />
+    <Alias n="99" Id="(@1 @3 @11 Member=OpenPipes)" />
+    <Alias n="100" Id="(@1 @3 @11 Member=out_pipe)" />
+    <Alias n="101" Id="(@1 @3 @7 Member=Periodo)" />
+    <Alias n="102" Id="(@1 @3 @7 Member=PosicionFinal)" />
+    <Alias n="103" Id="(@1 @3 @7 Member=PosicionInicial)" />
+    <Alias n="105" Id="(@1 @3 @9 Member=Recibir_Byte)" />
+    <Alias n="106" Id="(@1 @3 @9 Member=Step)" />
+    <Alias n="107" Id="(@1 @3 @9 Member=textBoxNumPulsosE)" />
+    <Alias n="108" Id="(@1 @3 @9 Member=textBoxNumPulsosX)" />
+    <Alias n="109" Id="(@1 @3 @9 Member=textBoxNumPulsosY)" />
+    <Alias n="110" Id="(@1 @3 @9 Member=textBoxNumPulsosZ)" />
+    <Alias n="111" Id="(@1 @3 @9 Member=textBoxPeriodoPulsosE)" />
+    <Alias n="112" Id="(@1 @3 @9 Member=textBoxPeriodoPulsosX)" />
+    <Alias n="113" Id="(@1 @3 @9 Member=textBoxPeriodoPulsosY)" />
+    <Alias n="114" Id="(@1 @3 @9 Member=textBoxPeriodoPulsosZ)" />
+    <Alias n="115" Id="(@1 @3 @9 Member=textBoxTiempoDeMuestreo)" />
+    <Alias n="116" Id="(@1 @3 @9 Member=USBapi)" />
+    <Alias n="117" Id="(@1 @3 @11 Member=vid_pid_norm)" />
+    <Alias n="118" Id="(@1 @3 @14 Member=X)" />
+    <Alias n="119" Id="(@1 @3 @14 Member=Y)" />
+    <Alias n="120" Id="(@1 @3 @14 Member=Z)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Resultados" ValueLabel="Verdadero">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Ensamblado" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Espacio de nombres" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Interfaz" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Struct" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enumeración" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Delegado" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Clase" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Propiedad" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Método" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Evento" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="campo" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Out Parameter" ValueLabel="True">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Parameter" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Local Variable" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externos" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Read" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Target.HasCategory('CodeSchema_Field') And HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="Verdadero" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="Verdadero" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="Verdadero" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="Verdadero" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="Verdadero" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Comentario" ValueLabel="Tiene comentario">
+      <Condition Expression="HasCategory('Comment')" />
+      <Setter Property="Background" Value="#FFFFFACD" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+      <Setter Property="StrokeThickness" Value="1" />
+      <Setter Property="NodeRadius" Value="2" />
+      <Setter Property="MaxWidth" Value="250" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="42f9c504-5dfb-427e-8126-ec9b5ca07184.OutputPath" Value="C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinterWFA\3DPrinter\bin\Release\3D Printer Repet.exe" />
+    <Path Id="42f9c504-5dfb-427e-8126-ec9b5ca07184.OutputPathUri" Value="file:///C:/Users/Paulo/Documents/PAULO/CONTROL/ETN1040/3Dprinter/3DPrinterProject/software/3DPrinterWFA/3DPrinter/bin/Release/3D Printer Repet.exe" />
+    <Path Id="FxReferenceAssemblies" Value="C:\Program Files\Reference Assemblies\Microsoft\Framework" />
+    <Path Id="FxReferenceAssembliesUri" Value="file:///C:/Program Files/Reference Assemblies/Microsoft/Framework" />
+  </Paths>
+</DirectedGraph>

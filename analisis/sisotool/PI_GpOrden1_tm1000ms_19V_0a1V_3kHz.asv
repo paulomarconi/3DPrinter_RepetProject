@@ -1,0 +1,8 @@
+s=tf('s');
+Gp=1.1835/(1+490.58*s);
+Kp=2.424; Ki=0.008079; 
+Gc=tf([Kp Ki],[1 0]); %  Gc=0.0080794*(1+300*s)/s
+Gla=Gp*Gc;
+Glc=feedback(Gla,1);
+step(Gp,Glc)
+

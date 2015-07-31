@@ -1,0 +1,11 @@
+c:\users\mariano\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mariano\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Control_USB_BULK.Form1.resources
+c:\users\mariano\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Control_USB_BULK.Properties.Resources.resources
+c:\users\mariano\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mariano\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\C# Control BULK USB\Control USB BULK\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\C# Control BULK USB\Control USB BULK\obj\x86\Debug\Control_USB_BULK.Form1.resources
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\C# Control BULK USB\Control USB BULK\obj\x86\Debug\Control_USB_BULK.Properties.Resources.resources
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\C# Control BULK USB\Control USB BULK\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Mis Documentos\Electrónica\LabView\Interfaz USB Propia\C# Control BULK USB\Control USB BULK\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paulo\Documents\PAULO\ETN1040\3D printer\DIY_PIC+USBbulk+labview2010+Csharp\mnicolau\USB-BULK MN-LabVIEW 2010\bulk\Software Interfaz\C# Control BULK USB\Control USB BULK\bin\Debug\Interfaz Control USB BULK.exe.config

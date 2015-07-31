@@ -1,0 +1,43 @@
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB 3D Printer\Control USB BULK\bin\Release\3D Printer Repet.exe.config
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB 3D Printer\Control USB BULK\bin\Release\3D Printer Repet.exe
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB 3D Printer\Control USB BULK\bin\Release\3D Printer Repet.pdb
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB 3D Printer\Control USB BULK\obj\x86\Release\ControlUSB.InterfazMain3DPrinter.resources
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB 3D Printer\Control USB BULK\obj\x86\Release\ControlUSB.Properties.Resources.resources
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB 3D Printer\Control USB BULK\obj\x86\Release\3DPrinter.csproj.GenerateResource.Cache
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB 3D Printer\Control USB BULK\obj\x86\Release\3D Printer Repet.exe
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB 3D Printer\Control USB BULK\obj\x86\Release\3D Printer Repet.pdb
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\C# Control BULK USB 3D Printer\Control USB BULK\obj\x86\Release\3DPrinter.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\3DPrinter_WFA\Control USB BULK\bin\Release\3D Printer Repet.exe.config
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\3DPrinter_WFA\Control USB BULK\bin\Release\3D Printer Repet.exe
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\3DPrinter_WFA\Control USB BULK\bin\Release\3D Printer Repet.pdb
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\3DPrinter_WFA\Control USB BULK\obj\x86\Release\3DPrinter.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\3DPrinter_WFA\Control USB BULK\obj\x86\Release\ControlUSB.InterfazMain3DPrinter.resources
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\3DPrinter_WFA\Control USB BULK\obj\x86\Release\ControlUSB.Properties.Resources.resources
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\3DPrinter_WFA\Control USB BULK\obj\x86\Release\3DPrinter.csproj.GenerateResource.Cache
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\3DPrinter_WFA\Control USB BULK\obj\x86\Release\3D Printer Repet.exe
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3D printer\3D PRINTER PROJECT\software\3DPrinter_WFA\Control USB BULK\obj\x86\Release\3D Printer Repet.pdb
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinter_WFA\Control USB BULK\bin\Release\3D Printer Repet.exe.config
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinter_WFA\Control USB BULK\bin\Release\3D Printer Repet.exe
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinter_WFA\Control USB BULK\bin\Release\3D Printer Repet.pdb
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinter_WFA\Control USB BULK\obj\x86\Release\ControlUSB.InterfazMain3DPrinter.resources
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinter_WFA\Control USB BULK\obj\x86\Release\ControlUSB.Properties.Resources.resources
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinter_WFA\Control USB BULK\obj\x86\Release\3DPrinter.csproj.GenerateResource.Cache
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinter_WFA\Control USB BULK\obj\x86\Release\3D Printer Repet.exe
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinter_WFA\Control USB BULK\obj\x86\Release\3D Printer Repet.pdb
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\3DPrinter_WFA\3DPrinter\bin\Release\3D Printer Repet.exe.config
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\3DPrinter_WFA\3DPrinter\bin\Release\3D Printer Repet.exe
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\3DPrinter_WFA\3DPrinter\bin\Release\3D Printer Repet.pdb
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\3DPrinter_WFA\3DPrinter\obj\x86\Release\ControlUSB.InterfazMain3DPrinter.resources
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\3DPrinter_WFA\3DPrinter\obj\x86\Release\ControlUSB.Properties.Resources.resources
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\3DPrinter_WFA\3DPrinter\obj\x86\Release\3DPrinter.csproj.GenerateResource.Cache
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\3DPrinter_WFA\3DPrinter\obj\x86\Release\3D Printer Repet.exe
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\3DPrinter_WFA\3DPrinter\obj\x86\Release\3D Printer Repet.pdb
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinterWFA\3DPrinter\bin\Release\3D Printer Repet.exe.config
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinterWFA\3DPrinter\bin\Release\3D Printer Repet.exe
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinterWFA\3DPrinter\bin\Release\3D Printer Repet.pdb
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinterWFA\3DPrinter\obj\x86\Release\3DPrinter.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinterWFA\3DPrinter\obj\x86\Release\ControlUSB.InterfazMain3DPrinter.resources
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinterWFA\3DPrinter\obj\x86\Release\ControlUSB.Properties.Resources.resources
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinterWFA\3DPrinter\obj\x86\Release\3DPrinter.csproj.GenerateResource.Cache
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinterWFA\3DPrinter\obj\x86\Release\3D Printer Repet.exe
+C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinterWFA\3DPrinter\obj\x86\Release\3D Printer Repet.pdb

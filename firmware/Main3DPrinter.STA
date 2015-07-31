@@ -1,0 +1,167 @@
+
+ROM used:   8304 (25%)
+            8308 (25%) including unused fragments
+
+            0 Average locations per line
+            7 Average locations per statement
+
+RAM used:   371 (18%) at main() level
+            406 (20%) worst case
+
+Stack used: 14/31 worst case (5 in main + 9 for interrupts)
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+  334   332  28  Main3DPrinter.c
+  464     0   0  ..\..\..\..\..\..\..\..\..\Program Files\PICC\devices\18F4550.h
+  153     0   0  usb_bootloader.h
+  224     0   0  ..\..\..\..\..\..\..\..\..\Program Files\PICC\drivers\pic18_usb.h
+  328     0   0  ..\..\..\..\..\..\..\..\..\Program Files\PICC\drivers\usb_hw_layer.h
+  209     0   0  usb_descriptor.h
+ 1100     0   0  ..\..\..\..\..\..\..\..\..\Program Files\PICC\drivers\usb.h
+  866   219  18  ..\..\..\..\..\..\..\..\..\Program Files\PICC\drivers\usb.c
+ 1370   317  26  ..\..\..\..\..\..\..\..\..\Program Files\PICC\drivers\pic18_usb.c
+ 1711     0   0  osa.h
+   34     0   0  OSAcfg.h
+  144     0   0  port\osa_include.h
+  586     0   0  port\pic18\osa_pic18_ccs.h
+  450     0   0  kernel\osa_oldnames.h
+  624     0   0  kernel\system\osa_system.h
+  410     0   0  kernel\system\osa_tasks.h
+  211     0   0  kernel\events\osa_bsem.h
+  257     0   0  kernel\events\osa_csem.h
+  230     0   0  kernel\events\osa_flag.h
+  324     0   0  kernel\events\osa_msg.h
+  325     0   0  kernel\events\osa_queue.h
+  356     0   0  kernel\events\osa_smsg.h
+  351     0   0  kernel\events\osa_squeue.h
+  214     0   0  kernel\timers\osa_stimer.h
+  207     0   0  kernel\timers\osa_stimer_old.h
+  254     0   0  kernel\timers\osa_dtimer.h
+  160     0   0  kernel\timers\osa_qtimer.h
+  130     0   0  kernel\timers\osa_ttimer.h
+ 2314     0   0  kernel\timers\osa_timer.h
+  179     0   0  osa.c
+ 1711     0   0  OSA.h
+  143     0   0  port\osa_include.c
+  720    68   6  port\pic18\osa_pic18_ccs.c
+  286     0   0  kernel\timers\osa_dtimer.c
+  303     0   0  kernel\timers\osa_qtimer.c
+  143     0   0  kernel\timers\osa_stimer.c
+  108     0   0  kernel\timers\osa_ttimer.c
+  312     0   0  kernel\events\osa_squeue.c
+  295     0   0  kernel\events\osa_queue.c
+  119     0   0  kernel\events\osa_csem.c
+   47     0   0  kernel\events\osa_bsem.c
+  675   252  21  kernel\system\osa_system.c
+  152    19   2  kernel\system\osa_tasks.c
+----- -----
+19533  1207 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0     42   0   1             @delay_ms1
+0     32   0   0             @const164
+0     48   0   0             @const170
+0     48   0   0             @const173
+0     48   0   0             @const176
+0     18   0   0             @const179
+0     34   0   0             @const182
+0     20   0   0             @const185
+0     52   0   0             @const188
+0     56   0   4   139  4.3  usb_kbhit
+0     64   0   4   139  4.3  usb_tbe
+0     36   0   1   134  2.5  usb_detach
+0     34   0   0   136  2.2  usb_attach
+0      6   0   0    16  1.0  usb_init_cs
+0     34   0   1   362  5.0  usb_task
+0     14   0   0    61  2.5  usb_init
+0    210   1   9  1092  5.4  usb_flush_in
+0    166   1  10   344  6.1  usb_put_packet
+0    182   1   9   914  5.0  usb_flush_out
+0    190   1  12   652  5.9  usb_get_packet_buffer
+0     66   0   5   154  3.9  usb_get_packet
+0     70   0   6   258  4.6  usb_stall_ep
+0     68   0   6   266  4.6  usb_unstall_ep
+0     86   1   5   373  6.0  usb_endpoint_stalled
+0     22   0   1    94  2.7  usb_set_address
+0    370   2  12  1774 10.4  usb_set_configured
+0     76   0   5   199  3.2  usb_disable_endpoint
+0     22   0   1    99  3.0  usb_disable_endpoints
+0      4   0   0    61  4.0  usb_clear_trn
+0    126   1   2   656  6.7  usb_isr
+0      6   0   0    43  2.0  usb_isr_sof
+0     42   0   0   357  4.2  usb_isr_rst
+0     32   0   0   508  4.0  usb_init_ep0_setup
+0      8   0   0    74  2.8  usb_isr_uerr
+0     10   0   0    82  2.8  usb_isr_uidle
+0     16   0   0   102  3.3  usb_isr_activity
+0     14   0   0   151  3.9  usb_isr_stall
+0      6   0   1    30  1.7  usb_request_send_response
+0      4   0   0    22  1.2  usb_request_stall
+0    202   1   2  1485  7.8  usb_isr_tok_dne
+0      8   0   0    29  1.9  usb_enumerated
+0     12   0   0    52  2.1  usb_wait_for_enumeration
+0     40   0   3   255  4.0  usb_token_reset
+0     66   0   3   274  5.9  usb_endpoint_is_valid
+0     22   0   1   158  3.1  usb_isr_tok_in_dne
+0      6   0   1    53  1.9  usb_isr_tok_out_dne
+0     42   0   0   293  5.8  usb_isr_tok_setup_dne
+0    164   1   0  1454  8.3  usb_isr_tkn_setup_StandardDevice
+0    140   1   3   939  7.7  usb_isr_tkn_setup_StandardInterface
+0     94   1   0   753  5.8  usb_isr_tkn_setup_StandardEndpoint
+0    124   1   0   790  7.7  usb_Get_Descriptor
+0     14   0   0    76  1.8  usb_finish_set_address
+0    120   1   4  1937  9.3  usb_copy_desc_seg_to_ep
+0     24   0   0   120  3.3  _OS_JumpToTask
+0     50   0   2   171  4.0  _OS_ReturnSave
+0      6   0   0     8  1.5  _OS_ReturnNoSave
+0      6   0   0    33  1.3  _OS_EnterWaitMode
+0      8   0   0    33  1.3  _OS_EnterWaitModeTO
+0     62   0   2   366  5.0  _OS_ClrReadySetClrCanContinue
+0     84   1   4   439  5.8  _OS_InitDelay
+0     36   0   1   423  7.3  _OS_CheckEvent
+0     72   0   4  3017  7.6  OS_Init
+0    130   1   0  2796  5.4  OS_Timer
+0    152   1   9   812  9.5  _OS_Task_Create
+0    342   2   2  1814 13.6  MAIN
+0    374   2   4   837  3.8  Inicio
+0    242   1  11   123  2.5  @MULFF
+0    346   2  14    96  2.9  @DIVFF
+0     26   0   0   104  3.0  ADC
+0     16   0   0    32  1.0  timer0_isr
+0    380   2   2  1545  6.4  USB
+0     30   0   5   584 10.0  @MUL1616
+0    184   1   1   338  3.5  Gla
+0     54   0   2   685  9.2  @ITOF
+0     56   0   4    97  1.7  @SFTOI
+0    828   5   4   900  6.3  Glc_PIDdiscreto
+0    618   4  16  3032 14.2  @ADDFF
+0    118   1  10   172  3.2  @FLT
+0    112   1   1   393  4.6  MotorX
+0    112   1   1   393  4.6  MotorY
+0    110   1   1   393  4.6  MotorZ
+0    108   1   1   393  4.6  MotorE
+ Inline        0             @cinit1
+
+Program metrics:
+    Functions               73
+    Statements              1207
+    Comments                16898
+    Volume (V)              72187
+    Difficulty (D)          352.2
+    Effort to implement (E) 25424272
+    Time to implement (T)   392 hours, 21 minutes
+    Est Delivered Bugs (B)  29
+    Cyclomatic Complexity   185
+    Maintainability (MI)    39
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-017FE     0  6144  
+01800-01806     4  4  
+01808-018B8   178  0  
+018BA-07FFE  8122  18316  
+
+
+
