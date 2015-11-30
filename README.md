@@ -1,4 +1,4 @@
-# 3DPrinter RepetProject
+# Prototipo de Impresora 3D con el uso de botellas PET como material de impresión y adaptación de desecho electrónico (e-waste) para su construcción.
 
 Basic 3D Printer prototype implementation with FDM technique by the application of plastic PET bottles as printing material replacing the traditional PLA/ABS, e-waste adaptation for the extruder and structure construction. Own electronic and Firmware-Software implementation for PID heating Joule Effect temperature control, Step by Step motors control, general operation and monitoring, Gcode descriptor and 3D positioning algorithms.
 
