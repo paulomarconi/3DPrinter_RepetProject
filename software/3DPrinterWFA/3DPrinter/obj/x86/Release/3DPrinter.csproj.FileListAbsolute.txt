@@ -41,3 +41,6 @@ C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\softwa
 C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinterWFA\3DPrinter\obj\x86\Release\3DPrinter.csproj.GenerateResource.Cache
 C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinterWFA\3DPrinter\obj\x86\Release\3D Printer Repet.exe
 C:\Users\Paulo\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinterProject\software\3DPrinterWFA\3DPrinter\obj\x86\Release\3D Printer Repet.pdb
+C:\Users\zurits\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinter_RepetProject\software\3DPrinterWFA\3DPrinter\bin\Release\3D Printer Repet.exe.config
+C:\Users\zurits\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinter_RepetProject\software\3DPrinterWFA\3DPrinter\obj\x86\Release\3D Printer Repet.exe
+C:\Users\zurits\Documents\PAULO\CONTROL\ETN1040\3Dprinter\3DPrinter_RepetProject\software\3DPrinterWFA\3DPrinter\obj\x86\Release\3D Printer Repet.pdb
