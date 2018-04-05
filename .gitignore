@@ -1,0 +1,42 @@
+# Ignore this files
+# file.exe
+# except this files
+!README.md
+# Ignore these folders
+.git/*
+analisis/*
+
+
+# Ignore this folder
+firmware/*
+# except these subfolders
+!firmware/Driver 3DPrinter/
+!firmware/kernel/
+!firmware/port/
+# except these files inside that folder
+!firmware/Main3DPrinter.c
+!firmware/Main3DPrinter.pjt
+!firmware/osa.c
+!firmware/osa.h
+!firmware/OSAcfg.h
+!firmware/usb_bootloader.h
+!firmware/usb_descriptor.h
+
+# Ignore this folder
+IEA_uRobots_v2/*
+# except this subfolder
+!IEA_uRobots_v2/electronics/
+# ignore this subfolder again
+IEA_uRobots_v2/electronics/*
+# except this subfolder
+!IEA_uRobots_v2/electronics/altium/
+# ignore this subfolder again
+IEA_uRobots_v2/electronics/altium/*
+# except these files inside that subfolder
+!IEA_uRobots_v2/electronics/altium/IEA_uRobots_v2.OutJob
+!IEA_uRobots_v2/electronics/altium/IEA_uRobots_v2.PcbDoc
+!IEA_uRobots_v2/electronics/altium/IEA_uRobots_v2.PcbLib
+!IEA_uRobots_v2/electronics/altium/IEA_uRobots_v2.PrjPcb
+!IEA_uRobots_v2/electronics/altium/IEA_uRobots_v2.PrjPcbStructure
+!IEA_uRobots_v2/electronics/altium/IEA_uRobots_v2.SchDoc
+!IEA_uRobots_v2/electronics/altium/IEA_uRobots_v2.SchLib
