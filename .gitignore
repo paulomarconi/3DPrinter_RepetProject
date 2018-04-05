@@ -1,5 +1,6 @@
 # Ignore this files
-# file.exe 
+.gitignore
+.gitattributes
 # except this files
 !README.md
 # Ignore these folders
