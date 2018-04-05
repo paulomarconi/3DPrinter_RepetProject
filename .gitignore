@@ -1,5 +1,5 @@
 # Ignore this files
-# file.exe
+# file.exe 
 # except this files
 !README.md
 # Ignore these folders
