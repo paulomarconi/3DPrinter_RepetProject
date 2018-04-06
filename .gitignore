@@ -27,19 +27,15 @@ firmware/*
 hardware/*
 # except this subfolder
 !hardware/electronica/
+!hardware/mecanica/
 # ignore this subfolder again
 hardware/electronica/*
+hardware/mecanica/*
 # except these files inside that subfolder
 !hardware/electronica/Repet_RTOS.pdsprj
 !hardware/electronica/Repet_RTOS_BottonCopper.pdf
 !hardware/electronica/Repet_RTOS_TopCopper.pdf
 !hardware/electronica/BOM.pdf
-
-# Ignore this folder
-hardware/*
-# except this subfolder
-!hardware/mecanica/
-# ignore this subfolder again
-hardware/mecanica/*
-# except these files inside that subfolder
 !hardware/mecanica/Repet.skp
+
+
