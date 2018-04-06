@@ -24,20 +24,22 @@ firmware/*
 !firmware/usb_descriptor.h
 
 # Ignore this folder
-IEA_uRobots_v2/*
+hardware/*
 # except this subfolder
-!IEA_uRobots_v2/electronics/
+!hardware/electronica/
 # ignore this subfolder again
-IEA_uRobots_v2/electronics/*
-# except this subfolder
-!IEA_uRobots_v2/electronics/altium/
-# ignore this subfolder again
-IEA_uRobots_v2/electronics/altium/*
+hardware/electronica/*
 # except these files inside that subfolder
-!IEA_uRobots_v2/electronics/altium/IEA_uRobots_v2.OutJob
-!IEA_uRobots_v2/electronics/altium/IEA_uRobots_v2.PcbDoc
-!IEA_uRobots_v2/electronics/altium/IEA_uRobots_v2.PcbLib
-!IEA_uRobots_v2/electronics/altium/IEA_uRobots_v2.PrjPcb
-!IEA_uRobots_v2/electronics/altium/IEA_uRobots_v2.PrjPcbStructure
-!IEA_uRobots_v2/electronics/altium/IEA_uRobots_v2.SchDoc
-!IEA_uRobots_v2/electronics/altium/IEA_uRobots_v2.SchLib
+!hardware/electronica/Repet_RTOS.pdsprj
+!hardware/electronica/Repet_RTOS_BottonCopper.pdf
+!hardware/electronica/Repet_RTOS_TopCopper.pdf
+!hardware/electronica/BOM.pdf
+
+# Ignore this folder
+hardware/*
+# except this subfolder
+!hardware/mecanica/
+# ignore this subfolder again
+hardware/mecanica/*
+# except these files inside that subfolder
+!hardware/mecanica/Repet.skp
